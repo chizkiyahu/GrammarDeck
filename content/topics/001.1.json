@@ -1,0 +1,424 @@
+{
+  "id": "001.1",
+  "title": "Present Simple – Positive",
+  "topic": "Present Simple",
+  "subtopic": "Positive",
+  "description": "How to form positive sentences in the Present Simple",
+  "lessons": [
+    {
+      "id": "001.1-lesson-1",
+      "title": "Positive Structure",
+      "content": "**Structure:** Subject + Verb\n\nFor most pronouns, we do NOT change the verb.\nFor **he / she / it** (third-person singular), add **'s'** to the verb.\n\n| Pronoun | Verb | Example |\n|---------|------|---------||\n| I | eat | I eat apples. |\n| You | eat | You eat apples. |\n| We | eat | We eat apples. |\n| They | eat | They eat apples. |\n| He | eat**s** | He eats apples. |\n| She | eat**s** | She eats apples. |\n| It | eat**s** | It eats apples. |"
+    },
+    {
+      "id": "001.1-lesson-2",
+      "title": "Common Mistakes to Avoid",
+      "content": "⚠️ Do NOT use 'am / is / are' before the verb.\n⚠️ Do NOT end the verb with '-ing'.\n\n| ❌ Incorrect | ✅ Correct |\n|-------------|----------|\n| She **is** study French. | She **studies** French. |\n| I **am** understand you. | I **understand** you. |\n| We **are** living in Haifa. | We **live** in Haifa. |\n| He **working** out every day. | He **works** out every day. |"
+    },
+    {
+      "id": "001.1-lesson-3",
+      "title": "Spelling Rules for Third-Person Singular",
+      "content": "When adding 's' for he/she/it:\n\n🔤 **Most verbs:** just add **-s** → like → likes, want → wants\n🔤 **Verbs ending in -ch, -sh, -x, -s, -z:** add **-es** → watch → watches, fix → fixes\n🔤 **Verbs ending in consonant + y:** change **y → ies** → study → studies, fly → flies\n🔤 **Irregular:** go → goes, do → does, have → has"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.1-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "I usually {_} to school in the morning.",
+      "hint": "go",
+      "answers": ["go"],
+      "explanation": "First person singular (I) — no change to the verb.",
+      "tags": ["positive", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "We {_} to music in the car.",
+      "hint": "listen",
+      "answers": ["listen"],
+      "explanation": "First person plural (We) — no change to the verb.",
+      "tags": ["positive", "first-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "We {_} along with the songs on the radio.",
+      "hint": "sing",
+      "answers": ["sing"],
+      "explanation": "First person plural (We) — no change to the verb.",
+      "tags": ["positive", "first-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "John {_} well.",
+      "hint": "cook",
+      "answers": ["cooks"],
+      "explanation": "Third person singular (John/He) — add 's' to the verb.",
+      "tags": ["positive", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "My parents {_} in Jaffa.",
+      "hint": "live",
+      "answers": ["live"],
+      "explanation": "Third person plural (My parents/They) — no change to the verb.",
+      "tags": ["positive", "third-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "Sarah {_} a lot.",
+      "hint": "read",
+      "answers": ["reads"],
+      "explanation": "Third person singular (Sarah/She) — add 's' to the verb.",
+      "tags": ["positive", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-7",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "You always {_} us good stories.",
+      "hint": "tell",
+      "answers": ["tell"],
+      "explanation": "Second person (You) — no change to the verb.",
+      "tags": ["positive", "second-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-8",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "I {_} my shopping on Thursdays.",
+      "hint": "do",
+      "answers": ["do"],
+      "explanation": "First person singular (I) — no change to the verb.",
+      "tags": ["positive", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-9",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "The dog {_} his bone.",
+      "hint": "love",
+      "answers": ["loves"],
+      "explanation": "Third person singular (The dog/It) — add 's' to the verb.",
+      "tags": ["positive", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-10",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "Jim {_} to sleep.",
+      "hint": "want",
+      "answers": ["wants"],
+      "explanation": "Third person singular (Jim/He) — add 's' to the verb.",
+      "tags": ["positive", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-11",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "We {_} basketball once a week.",
+      "hint": "play",
+      "answers": ["play"],
+      "explanation": "First person plural (We) — no change to the verb.",
+      "tags": ["positive", "first-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-12",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "Once a year, she {_} to Switzerland.",
+      "hint": "fly",
+      "answers": ["flies"],
+      "explanation": "Third person singular (She) — 'fly' ends in consonant+y, so change y→ies: flies.",
+      "tags": ["positive", "third-person", "spelling"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-fb-13",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "They {_} Russian.",
+      "hint": "speak",
+      "answers": ["speak"],
+      "explanation": "Third person plural (They) — no change to the verb.",
+      "tags": ["positive", "third-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-14",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "He {_} poetry.",
+      "hint": "write",
+      "answers": ["writes"],
+      "explanation": "Third person singular (He) — add 's' to the verb.",
+      "tags": ["positive", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-15",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "The conference {_} place annually.",
+      "hint": "take",
+      "answers": ["takes"],
+      "explanation": "Third person singular (The conference/It) — add 's' to the verb.",
+      "tags": ["positive", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-16",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "Ice {_} at room temperature.",
+      "hint": "melt",
+      "answers": ["melts"],
+      "explanation": "Third person singular (Ice/It) — add 's' to the verb.",
+      "tags": ["positive", "third-person", "facts"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-17",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "I normally {_} singing in the afternoon.",
+      "hint": "practice",
+      "answers": ["practice", "practise"],
+      "explanation": "First person singular (I) — no change to the verb.",
+      "tags": ["positive", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-fb-18",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "I {_} that is a good idea.",
+      "hint": "think",
+      "answers": ["think"],
+      "explanation": "'Think' is a stative verb. First person singular (I) — no change.",
+      "tags": ["positive", "first-person", "stative-verbs"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-ec-1",
+      "type": "error-correction",
+      "sentence": "We speaking English.",
+      "answers": ["We speak English."],
+      "explanation": "Do not use '-ing' in the Present Simple. Remove 'ing': We speak English.",
+      "tags": ["positive", "error-correction"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-ec-2",
+      "type": "error-correction",
+      "sentence": "She live in Jerusalem.",
+      "answers": ["She lives in Jerusalem."],
+      "explanation": "Third person singular (She) — add 's': She lives in Jerusalem.",
+      "tags": ["positive", "error-correction", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-ec-3",
+      "type": "error-correction",
+      "sentence": "I am love my parents.",
+      "answers": ["I love my parents."],
+      "explanation": "Do not use 'am/is/are' before the verb. 'Love' is a stative verb: I love my parents.",
+      "tags": ["positive", "error-correction", "stative-verbs"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-ec-4",
+      "type": "error-correction",
+      "sentence": "We studying together every week.",
+      "answers": ["We study together every week."],
+      "explanation": "Do not use '-ing' in the Present Simple: We study together every week.",
+      "tags": ["positive", "error-correction"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-ec-5",
+      "type": "error-correction",
+      "sentence": "The dog is want the bone.",
+      "answers": ["The dog wants the bone."],
+      "explanation": "Do not use 'is' before the verb. Third person singular needs 's': The dog wants the bone.",
+      "tags": ["positive", "error-correction", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-ec-6",
+      "type": "error-correction",
+      "sentence": "You are work hard.",
+      "answers": ["You work hard."],
+      "explanation": "Do not use 'are' before the verb in the Present Simple: You work hard.",
+      "tags": ["positive", "error-correction"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-ec-7",
+      "type": "error-correction",
+      "sentence": "They are know Hungarian.",
+      "answers": ["They know Hungarian."],
+      "explanation": "'Know' is a stative verb. Do not use 'are' before it: They know Hungarian.",
+      "tags": ["positive", "error-correction", "stative-verbs"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-ec-8",
+      "type": "error-correction",
+      "sentence": "I once a week eating with my family.",
+      "answers": ["I eat with my family once a week."],
+      "explanation": "Do not use '-ing'. Time phrases go at the beginning or end: I eat with my family once a week.",
+      "tags": ["positive", "error-correction", "word-order"],
+      "difficulty": 3
+    },
+    {
+      "id": "001.1-ec-9",
+      "type": "error-correction",
+      "sentence": "Andy make good food.",
+      "answers": ["Andy makes good food."],
+      "explanation": "Third person singular (Andy/He) — add 's': Andy makes good food.",
+      "tags": ["positive", "error-correction", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.1-ec-10",
+      "type": "error-correction",
+      "sentence": "I reading every morning the newspaper.",
+      "answers": ["I read the newspaper every morning."],
+      "explanation": "Do not use '-ing'. Time phrases go at the end: I read the newspaper every morning.",
+      "tags": ["positive", "error-correction", "word-order"],
+      "difficulty": 3
+    },
+    {
+      "id": "001.1-mc-1",
+      "type": "multiple-choice",
+      "sentence": "I usually {_} at 8 in the morning.",
+      "options": ["am waking up", "wake up", "wakes up", "am wakes up"],
+      "correct": 1,
+      "explanation": "First person singular (I) — use the base form 'wake up'. No auxiliary verb.",
+      "tags": ["positive", "multiple-choice", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-2",
+      "type": "multiple-choice",
+      "sentence": "They {_} to read books.",
+      "options": ["love", "are loving", "loving", "loves"],
+      "correct": 0,
+      "explanation": "'Love' is a stative verb. Third person plural (They) — use the base form 'love'.",
+      "tags": ["positive", "multiple-choice", "stative-verbs"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-3",
+      "type": "multiple-choice",
+      "sentence": "My parents {_} a lot.",
+      "options": ["works", "work", "are working", "are work"],
+      "correct": 1,
+      "explanation": "Third person plural (My parents/They) — use the base form 'work'. No 's' added.",
+      "tags": ["positive", "multiple-choice", "third-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-4",
+      "type": "multiple-choice",
+      "sentence": "You always {_} to school happy.",
+      "options": ["gone", "goes", "go", "are going"],
+      "correct": 2,
+      "explanation": "Second person (You) — use the base form 'go'. No auxiliary verb.",
+      "tags": ["positive", "multiple-choice", "second-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-5",
+      "type": "multiple-choice",
+      "sentence": "She {_} every summer.",
+      "options": ["travel", "are traveling", "travels", "is travel"],
+      "correct": 2,
+      "explanation": "Third person singular (She) — add 's': travels.",
+      "tags": ["positive", "multiple-choice", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-6",
+      "type": "multiple-choice",
+      "sentence": "He often {_} late.",
+      "options": ["come", "comes", "is coming", "is come"],
+      "correct": 1,
+      "explanation": "Third person singular (He) — add 's': comes.",
+      "tags": ["positive", "multiple-choice", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-7",
+      "type": "multiple-choice",
+      "sentence": "I {_} every evening.",
+      "options": ["shower", "showers", "showering", "showered"],
+      "correct": 0,
+      "explanation": "First person singular (I) — use the base form 'shower'. No 's'.",
+      "tags": ["positive", "multiple-choice", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-8",
+      "type": "multiple-choice",
+      "sentence": "We {_} at night.",
+      "options": ["slept", "are sleep", "sleep", "sleeping"],
+      "correct": 2,
+      "explanation": "First person plural (We) — use the base form 'sleep'. No auxiliary.",
+      "tags": ["positive", "multiple-choice", "first-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-9",
+      "type": "multiple-choice",
+      "sentence": "Children {_} at school.",
+      "options": ["play", "are play", "is play", "playing"],
+      "correct": 0,
+      "explanation": "Third person plural (Children/They) — use the base form 'play'.",
+      "tags": ["positive", "multiple-choice", "third-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-10",
+      "type": "multiple-choice",
+      "sentence": "My mom {_} me at least once a week.",
+      "options": ["calls", "calling", "is call", "is calling"],
+      "correct": 0,
+      "explanation": "Third person singular (My mom/She) — add 's': calls.",
+      "tags": ["positive", "multiple-choice", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.1-mc-11",
+      "type": "multiple-choice",
+      "sentence": "Once a month we {_} our family.",
+      "options": ["visit", "visits", "are visit", "visiting"],
+      "correct": 0,
+      "explanation": "First person plural (We) — use the base form 'visit'.",
+      "tags": ["positive", "multiple-choice", "first-person-plural"],
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "id": "001.2",
+  "title": "Present Simple – Negative",
+  "topic": "Present Simple",
+  "subtopic": "Negative",
+  "description": "How to form negative sentences in the Present Simple",
+  "lessons": [
+    {
+      "id": "001.2-lesson-1",
+      "title": "Negative Structure",
+      "content": "**Structure:** Subject + do/does + not + Verb\n\nFor most pronouns: use **do not** (don't)\nFor **he / she / it** (third-person singular): use **does not** (doesn't) — and do NOT add 's' to the verb!\n\n| Pronoun | Helper | Example |\n|---------|--------|---------|\n| I | do not | I do not eat apples. |\n| You | do not | You do not eat apples. |\n| We | do not | We do not eat apples. |\n| They | do not | They do not eat apples. |\n| He | does not | He does not eat apples. |\n| She | does not | She does not eat apples. |\n| It | does not | It does not eat apples. |"
+    },
+    {
+      "id": "001.2-lesson-2",
+      "title": "Common Mistakes to Avoid",
+      "content": "⚠️ Do NOT use 'am not / is not / are not' before the verb.\n⚠️ Do NOT add '-ing' to the verb.\n⚠️ When using 'does not/doesn't', keep the main verb in its BASE form (no 's')!\n\n| ❌ Incorrect | ✅ Correct |\n|-------------|----------|\n| She is not study French. | She **does not** study French. |\n| I am not understand you. | I **do not** understand you. |\n| We are not living in Haifa. | We **don't** live in Haifa. |\n| He not working out every day. | He **doesn't** work out every day. |"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.2-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "I {_} much TV.",
+      "hint": "watch (negative)",
+      "answers": ["don't watch", "do not watch"],
+      "explanation": "First person singular (I) — use 'don't watch'.",
+      "tags": ["negative", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "Jill {_} meat.",
+      "hint": "eat (negative)",
+      "answers": ["doesn't eat", "does not eat"],
+      "explanation": "Third person singular (Jill/She) — use 'doesn't eat'. The verb stays in the base form.",
+      "tags": ["negative", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "Children {_} to school on weekends.",
+      "hint": "go (negative)",
+      "answers": ["don't go", "do not go"],
+      "explanation": "Third person plural (Children/They) — use 'don't go'.",
+      "tags": ["negative", "third-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "My friend {_} chocolate.",
+      "hint": "like (negative)",
+      "answers": ["doesn't like", "does not like"],
+      "explanation": "Third person singular (My friend/He/She) — use 'doesn't like'. Keep base verb form.",
+      "tags": ["negative", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "It {_} a lot in Israel.",
+      "hint": "snow (negative)",
+      "answers": ["doesn't snow", "does not snow"],
+      "explanation": "Third person singular (It) — use 'doesn't snow'. Keep base verb form.",
+      "tags": ["negative", "third-person", "facts"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "Simon {_} well.",
+      "hint": "cook (negative)",
+      "answers": ["doesn't cook", "does not cook"],
+      "explanation": "Third person singular (Simon/He) — use 'doesn't cook'.",
+      "tags": ["negative", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-7",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "We {_} lies.",
+      "hint": "tell (negative)",
+      "answers": ["don't tell", "do not tell"],
+      "explanation": "First person plural (We) — use 'don't tell'.",
+      "tags": ["negative", "first-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-8",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "I {_} my shopping on Saturdays.",
+      "hint": "do (negative)",
+      "answers": ["don't do", "do not do"],
+      "explanation": "First person singular (I) — use 'don't do'.",
+      "tags": ["negative", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-9",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "The dog {_} him.",
+      "hint": "like (negative)",
+      "answers": ["doesn't like", "does not like"],
+      "explanation": "Third person singular (The dog/It) — use 'doesn't like'.",
+      "tags": ["negative", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-10",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "Jim {_} to sleep.",
+      "hint": "want (negative)",
+      "answers": ["doesn't want", "does not want"],
+      "explanation": "Third person singular (Jim/He) — use 'doesn't want'.",
+      "tags": ["negative", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-11",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "We {_} basketball anymore.",
+      "hint": "play (negative)",
+      "answers": ["don't play", "do not play"],
+      "explanation": "First person plural (We) — use 'don't play'.",
+      "tags": ["negative", "first-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-12",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "I {_} because I am afraid of airplanes.",
+      "hint": "fly (negative)",
+      "answers": ["don't fly", "do not fly"],
+      "explanation": "First person singular (I) — use 'don't fly'.",
+      "tags": ["negative", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-13",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "They {_} German.",
+      "hint": "speak (negative)",
+      "answers": ["don't speak", "do not speak"],
+      "explanation": "Third person plural (They) — use 'don't speak'.",
+      "tags": ["negative", "third-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-14",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "He {_} poetry.",
+      "hint": "write (negative)",
+      "answers": ["doesn't write", "does not write"],
+      "explanation": "Third person singular (He) — use 'doesn't write'. Keep base verb form.",
+      "tags": ["negative", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-15",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "I {_} time for this.",
+      "hint": "have (negative)",
+      "answers": ["don't have", "do not have"],
+      "explanation": "First person singular (I) — use 'don't have'.",
+      "tags": ["negative", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-16",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "Ice {_} at -10°C.",
+      "hint": "melt (negative)",
+      "answers": ["doesn't melt", "does not melt"],
+      "explanation": "Third person singular (Ice/It) — use 'doesn't melt'. Keep base verb form.",
+      "tags": ["negative", "third-person", "facts"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-17",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "I normally {_} singing in the morning.",
+      "hint": "practice (negative)",
+      "answers": ["don't practice", "do not practice", "don't practise", "do not practise"],
+      "explanation": "First person singular (I) — use 'don't practice'.",
+      "tags": ["negative", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-fb-18",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the negative form using the verb in brackets.",
+      "sentence": "I {_} that is a good idea.",
+      "hint": "think (negative)",
+      "answers": ["don't think", "do not think"],
+      "explanation": "First person singular (I) — use 'don't think'. 'Think' is a stative verb.",
+      "tags": ["negative", "first-person", "stative-verbs"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.2-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "We speak Turkish.",
+      "answers": ["We don't speak Turkish.", "We do not speak Turkish."],
+      "explanation": "First person plural (We) — add 'don't' before the verb.",
+      "tags": ["negative", "sentence-transform"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "She lives in Jerusalem.",
+      "answers": ["She doesn't live in Jerusalem.", "She does not live in Jerusalem."],
+      "explanation": "Third person singular (She) — use 'doesn't' and keep the base verb form (live, not lives).",
+      "tags": ["negative", "sentence-transform", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "I like fried eggs.",
+      "answers": ["I don't like fried eggs.", "I do not like fried eggs."],
+      "explanation": "First person singular (I) — add 'don't' before the verb.",
+      "tags": ["negative", "sentence-transform"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "We study together every week.",
+      "answers": ["We don't study together every week.", "We do not study together every week."],
+      "explanation": "First person plural (We) — add 'don't' before the verb.",
+      "tags": ["negative", "sentence-transform"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "The dog wants the bone.",
+      "answers": ["The dog doesn't want the bone.", "The dog does not want the bone."],
+      "explanation": "Third person singular (The dog/It) — use 'doesn't want'. Notice the verb loses its 's'.",
+      "tags": ["negative", "sentence-transform", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "You work hard.",
+      "answers": ["You don't work hard.", "You do not work hard."],
+      "explanation": "Second person (You) — add 'don't' before the verb.",
+      "tags": ["negative", "sentence-transform"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "They know Hungarian.",
+      "answers": ["They don't know Hungarian.", "They do not know Hungarian."],
+      "explanation": "Third person plural (They) — add 'don't' before the verb.",
+      "tags": ["negative", "sentence-transform"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "I eat with my family once a week.",
+      "answers": ["I don't eat with my family once a week.", "I do not eat with my family once a week."],
+      "explanation": "First person singular (I) — add 'don't' before the verb.",
+      "tags": ["negative", "sentence-transform"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "Andy makes good food.",
+      "answers": ["Andy doesn't make good food.", "Andy does not make good food."],
+      "explanation": "Third person singular (Andy/He) — use 'doesn't make'. Notice the verb loses its 's'.",
+      "tags": ["negative", "sentence-transform", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.2-st-10",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "I read the newspaper every morning.",
+      "answers": ["I don't read the newspaper every morning.", "I do not read the newspaper every morning."],
+      "explanation": "First person singular (I) — add 'don't' before the verb.",
+      "tags": ["negative", "sentence-transform"],
+      "difficulty": 2
+    }
+  ]
+}

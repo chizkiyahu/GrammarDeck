@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "appName": "GrammarDeck",
+  "description": "English Grammar Learning App",
+  "topics": [
+    {
+      "id": "001.0",
+      "title": "Present Simple – Rationale",
+      "topic": "Present Simple",
+      "subtopic": "Rationale",
+      "order": 1,
+      "description": "When and why we use the Present Simple tense",
+      "icon": "📖",
+      "color": "violet",
+      "file": "content/topics/001.0.json"
+    },
+    {
+      "id": "001.1",
+      "title": "Present Simple – Positive",
+      "topic": "Present Simple",
+      "subtopic": "Positive",
+      "order": 2,
+      "description": "How to form positive sentences in the Present Simple",
+      "icon": "✅",
+      "color": "emerald",
+      "file": "content/topics/001.1.json"
+    },
+    {
+      "id": "001.2",
+      "title": "Present Simple – Negative",
+      "topic": "Present Simple",
+      "subtopic": "Negative",
+      "order": 3,
+      "description": "How to form negative sentences in the Present Simple",
+      "icon": "🚫",
+      "color": "rose",
+      "file": "content/topics/001.2.json"
+    }
+  ]
+}

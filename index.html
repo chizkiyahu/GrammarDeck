@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="description" content="GrammarDeck — Learn English grammar with flashcards, exercises and spaced repetition">
+  <meta name="theme-color" content="#7c3aed">
+
+  <!-- PWA manifest for installability -->
+  <link rel="manifest" href="manifest.webmanifest">
+
+  <title>GrammarDeck — English Grammar</title>
+
+  <!-- Apply dark mode BEFORE paint to avoid flash -->
+  <script>
+    try {
+      const d = JSON.parse(localStorage.getItem('grammemo_v1') || '{}');
+      const setting = d.settings?.darkMode; // null/undefined = auto, true = dark, false = light
+      const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const shouldDark = (setting === null || setting === undefined) ? systemDark : setting === true;
+      if (shouldDark) document.documentElement.classList.add('dark');
+    } catch (e) {
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches)
+        document.documentElement.classList.add('dark');
+    }
+  </script>
+
+  <!-- Tailwind CSS (CDN, no build step needed) -->
+  <script>tailwind.config = { darkMode: 'class' };</script>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Custom styles -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-gray-50 min-h-screen dark:bg-gray-900">
+
+  <!-- App root — all content rendered here by app.js -->
+  <div id="app">
+    <div class="loading-screen">
+      <div class="spinner"></div>
+    </div>
+  </div>
+
+  <!-- Main app module -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

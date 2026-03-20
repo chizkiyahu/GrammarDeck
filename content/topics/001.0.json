@@ -1,0 +1,147 @@
+{
+  "id": "001.0",
+  "title": "Present Simple – Rationale",
+  "topic": "Present Simple",
+  "subtopic": "Rationale",
+  "description": "When and why we use the Present Simple tense",
+  "lessons": [
+    {
+      "id": "001.0-lesson-1",
+      "title": "Uses of the Present Simple",
+      "content": "The Present Simple can be used to speak about:\n\n📌 **Routines** — things that happen regularly\n*'We go to the movies every Tuesday.'*\n\n📌 **Facts** — things that are true and do not change\n*'Water freezes at 0°C and boils at 100°C.'*\n\n📌 **Opinions & Beliefs** — what we think or feel about things\n*'Chocolate tastes amazing!'*\n\n📌 **Scheduled future events** — when a specific time is given\n*'The party starts at 20:30.'*\n\n📌 **Stative verbs** — verbs that describe emotions or feelings\n*'I love cake.' / 'He likes sports.'*"
+    },
+    {
+      "id": "001.0-lesson-2",
+      "title": "Time Phrases & Adverbs of Frequency",
+      "content": "The Present Simple is used with time phrases and adverbs of frequency.\n\n⏰ **Time Phrases** (go at the beginning or end of a sentence):\nevery day, once a week, twice a month, weekly, annually, on Tuesdays…\n\n🔁 **Adverbs of Frequency** (go after the subject):\nalways, usually, often, rarely, never, frequently…\n\n*'Kate **usually** reads her emails in the morning.'*\n*'I go to the beach **once a month**.'*\n*'**Every morning**, she wakes her brother up.'*"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.0-fc-1",
+      "type": "flashcard",
+      "question": "What tense do we use for daily routines?",
+      "answer": "Present Simple\n\ne.g. 'I wake up at 6:30 every morning.'\n'We go to the movies every Tuesday.'",
+      "tags": ["rationale", "routines"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.0-fc-2",
+      "type": "flashcard",
+      "question": "What tense do we use for facts that don't change?",
+      "answer": "Present Simple\n\ne.g. 'The sun rises in the east.'\n'Water freezes at 0°C.'",
+      "tags": ["rationale", "facts"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.0-fc-3",
+      "type": "flashcard",
+      "question": "What tense do we use for opinions and beliefs?",
+      "answer": "Present Simple\n\ne.g. 'Chocolate tastes amazing!'\n'Jazz musicians make great music.'",
+      "tags": ["rationale", "opinions"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.0-fc-4",
+      "type": "flashcard",
+      "question": "What are stative verbs? Give 3 examples.",
+      "answer": "Verbs that describe emotions or feelings — used only in the Present Simple (not continuous)\n\ne.g. love, like, think, know, understand, want",
+      "tags": ["rationale", "stative-verbs"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.0-fc-5",
+      "type": "flashcard",
+      "question": "Where do adverbs of frequency go in a sentence?",
+      "answer": "After the subject (before the main verb)\n\n✅ 'Kate **usually** reads her emails in the morning.'\n✅ 'I **rarely** go to restaurants.'\n❌ 'Usually Kate reads...' (less common)",
+      "tags": ["rationale", "adverbs-of-frequency"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.0-fc-6",
+      "type": "flashcard",
+      "question": "Where do time phrases go in a sentence?",
+      "answer": "At the beginning OR the end of the sentence.\n\n✅ 'She wakes her brother up **every morning**.'\n✅ '**Every morning**, she wakes her brother up.'\n✅ 'I go to the beach **once a month**.'\n✅ '**Once a month**, I go to the beach.'",
+      "tags": ["rationale", "time-phrases"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.0-fc-7",
+      "type": "flashcard",
+      "question": "Can the Present Simple refer to a future event?",
+      "answer": "Yes! When a specific time is given, the Present Simple can describe a scheduled future event.\n\ne.g. 'The party starts at 20:30.'\n'I fly to Paris on Tuesday.'\n'We leave in five minutes.'",
+      "tags": ["rationale", "future"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.0-mc-1",
+      "type": "multiple-choice",
+      "sentence": "'The sun rises in the east.' This sentence uses the Present Simple for:",
+      "options": ["Routines", "Facts", "Opinions", "Scheduled events"],
+      "correct": 1,
+      "explanation": "This is a permanent truth that never changes — it's a fact.",
+      "tags": ["rationale", "facts"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.0-mc-2",
+      "type": "multiple-choice",
+      "sentence": "'I love cake.' This sentence uses the Present Simple for:",
+      "options": ["Routines", "Scheduled events", "Stative verbs", "Facts"],
+      "correct": 2,
+      "explanation": "'Love' is a stative verb — it describes a feeling and is only used in the Present Simple.",
+      "tags": ["rationale", "stative-verbs"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.0-mc-3",
+      "type": "multiple-choice",
+      "sentence": "'The party starts at 20:30.' This sentence uses the Present Simple for:",
+      "options": ["Routines", "Opinions", "Facts", "Scheduled future events"],
+      "correct": 3,
+      "explanation": "When a specific time is given, the Present Simple can describe a future scheduled event.",
+      "tags": ["rationale", "future"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.0-mc-4",
+      "type": "multiple-choice",
+      "sentence": "'She goes to the gym once a week.' This sentence uses the Present Simple for:",
+      "options": ["Routines", "Facts", "Opinions", "Stative verbs"],
+      "correct": 0,
+      "explanation": "'Once a week' is a time phrase that signals a routine — something that happens regularly.",
+      "tags": ["rationale", "routines"],
+      "difficulty": 1
+    },
+    {
+      "id": "001.0-mc-5",
+      "type": "multiple-choice",
+      "sentence": "In which sentence is 'usually' in the correct position?",
+      "options": [
+        "Usually Kate reads her emails.",
+        "Kate reads usually her emails.",
+        "Kate usually reads her emails.",
+        "Kate reads her emails usually in the morning."
+      ],
+      "correct": 2,
+      "explanation": "Adverbs of frequency (usually, always, often, etc.) go AFTER the subject and BEFORE the main verb.",
+      "tags": ["rationale", "adverbs-of-frequency"],
+      "difficulty": 2
+    },
+    {
+      "id": "001.0-mc-6",
+      "type": "multiple-choice",
+      "sentence": "Which sentence uses the Present Simple INCORRECTLY?",
+      "options": [
+        "I think you are right.",
+        "She is knowing the answer.",
+        "We live in Jerusalem.",
+        "He works out every day."
+      ],
+      "correct": 1,
+      "explanation": "'Know' is a stative verb — it cannot be used in continuous form. Correct: 'She knows the answer.'",
+      "tags": ["rationale", "stative-verbs"],
+      "difficulty": 3
+    }
+  ]
+}
