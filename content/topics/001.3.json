@@ -1,0 +1,527 @@
+{
+  "id": "001.3",
+  "title": "Present Simple – Questions",
+  "topic": "Present Simple",
+  "subtopic": "Questions",
+  "description": "How to form yes/no and WH questions in the Present Simple",
+  "lessons": [
+    {
+      "id": "001.3-lesson-1",
+      "title": "Yes/No Question Structure",
+      "content": "**Structure:** Do/Does + Subject + Base Verb + ?\n\nUse **do** with **I / you / we / they**.\nUse **does** with **he / she / it**.\n\n⚠️ After **does**, the main verb stays in the **base form**.\n\n| Subject | Helper | Verb | Example |\n|---------|--------|------|---------|\n| I | do | eat | Do I eat apples? |\n| You | do | live | Do you live in Spain? |\n| We | do | speak | Do we speak Turkish? |\n| They | do | work | Do they work here? |\n| He | does | eat | Does he eat apples? |\n| She | does | live | Does she live in Jerusalem? |\n| It | does | snow | Does it snow a lot in Russia? |"
+    },
+    {
+      "id": "001.3-lesson-2",
+      "title": "WH Questions with a Known Subject",
+      "content": "When we know the subject, we keep the usual question structure and add a question word at the beginning.\n\n**Structure:** Question word + do/does + Subject + Base Verb + ?\n\n📌 **Where do you live?**\n📌 **When does the train arrive?**\n📌 **Why do you learn English?**\n📌 **How does Frank go to work?**\n\nCommon question words here are **what, when, where, why, which, how, how much,** and **how many**."
+    },
+    {
+      "id": "001.3-lesson-3",
+      "title": "WH Questions without a Known Subject",
+      "content": "If the question word is the subject of the sentence, we do **not** use **do/does**.\n\n**Structure:** Question word + Verb + ... ?\n\n📌 **Who lives here?**\n📌 **What makes you happy?**\n\n🔤 **who** is common when we do not know the person doing the action.\n🔤 **whom** is used when we ask about the object and the subject is known.\n\n⚠️ Compare: **Who lives here?** vs. **Whom does he want to meet?**"
+    },
+    {
+      "id": "001.3-lesson-4",
+      "title": "Common Mistakes",
+      "content": "⚠️ Do **not** use **am / is / are** before the verb in Present Simple questions.\n⚠️ Do **not** use **if** to form a normal Present Simple question.\n⚠️ After **does**, use the **base verb**: **Does she study?** not **Does she studies?**\n\n| Incorrect | Correct |\n|-----------|---------|\n| Is she study French? | Does she study French? |\n| You understand me? | Do you understand me? |\n| Are you live in Haifa? | Do you live in Haifa? |\n| If he works out every day? | Does he work out every day? |"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.3-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the question with the correct base verb.",
+      "sentence": "Do you {_} in Spain?",
+      "hint": "live",
+      "answers": [
+        "live"
+      ],
+      "explanation": "With 'do', use the base verb: Do you live...?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the question with the correct base verb.",
+      "sentence": "Does he {_} apples?",
+      "hint": "eat",
+      "answers": [
+        "eat"
+      ],
+      "explanation": "With 'does', keep the main verb in the base form: eat.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the WH question with the correct verb.",
+      "sentence": "Where do you {_}?",
+      "hint": "live",
+      "answers": [
+        "live"
+      ],
+      "explanation": "In WH questions with a known subject, use question word + do + subject + base verb.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "where"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the subject question with the correct verb form.",
+      "sentence": "Who {_} here?",
+      "hint": "live",
+      "answers": [
+        "lives"
+      ],
+      "explanation": "This is a subject question, so we do not use 'do/does'. The verb agrees with 'who': Who lives here?",
+      "tags": [
+        "questions",
+        "subject-questions",
+        "who"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the question with the correct verb.",
+      "sentence": "How many books do you {_}?",
+      "hint": "have",
+      "answers": [
+        "have"
+      ],
+      "explanation": "'How many' asks about countable things, and the verb stays in the base form after 'do'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "how-many"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the question with the correct verb.",
+      "sentence": "Whom does he want to {_} to?",
+      "hint": "talk",
+      "answers": [
+        "talk"
+      ],
+      "explanation": "After 'does', use the base verb: talk.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "whom"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-mc-1",
+      "type": "multiple-choice",
+      "sentence": "Which question is correct?",
+      "options": [
+        "Does she studies French?",
+        "Does she study French?",
+        "Is she study French?",
+        "Do she study French?"
+      ],
+      "correct": 1,
+      "explanation": "With 'does', the main verb stays in the base form: study.",
+      "tags": [
+        "questions",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-mc-2",
+      "type": "multiple-choice",
+      "sentence": "Which sentence is a subject question?",
+      "options": [
+        "Where do you live?",
+        "Why does Jim eat chocolate?",
+        "Who lives here?",
+        "How do you learn English?"
+      ],
+      "correct": 2,
+      "explanation": "'Who lives here?' asks about the subject, so it does not use 'do/does'.",
+      "tags": [
+        "questions",
+        "multiple-choice",
+        "subject-questions"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-mc-3",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct question for asking about a reason.",
+      "options": [
+        "What does Jim eat chocolate?",
+        "Why does Jim eat chocolate?",
+        "Where does Jim eat chocolate?",
+        "Does Jim why eat chocolate?"
+      ],
+      "correct": 1,
+      "explanation": "Use 'why' to ask about a reason or cause.",
+      "tags": [
+        "questions",
+        "multiple-choice",
+        "why"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-mc-4",
+      "type": "multiple-choice",
+      "sentence": "Which question correctly asks about quantity with countable nouns?",
+      "options": [
+        "How much books do you have?",
+        "How many books do you have?",
+        "How many do you have books?",
+        "How much do you have books?"
+      ],
+      "correct": 1,
+      "explanation": "Use 'how many' for things we can count, like books.",
+      "tags": [
+        "questions",
+        "multiple-choice",
+        "how-many"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "We speak Turkish.",
+      "answers": [
+        "Do we speak Turkish?"
+      ],
+      "explanation": "Use 'do' with 'we': Do we speak Turkish?",
+      "tags": [
+        "questions",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "She lives in Jerusalem.",
+      "answers": [
+        "Does she live in Jerusalem?"
+      ],
+      "explanation": "Use 'does' with 'she', and change 'lives' back to the base verb 'live'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "I like fried eggs.",
+      "answers": [
+        "Do I like fried eggs?"
+      ],
+      "explanation": "Use 'do' with 'I': Do I like fried eggs?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "We study together every week.",
+      "answers": [
+        "Do we study together every week?"
+      ],
+      "explanation": "Use 'do' with 'we', then the base verb 'study'.",
+      "tags": [
+        "questions",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "The dog wants the bone.",
+      "answers": [
+        "Does the dog want the bone?"
+      ],
+      "explanation": "Third person singular uses 'does', and 'wants' becomes 'want'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "She reads science fiction books.",
+      "answers": [
+        "What does she read?"
+      ],
+      "explanation": "Ask about the object with 'what': What does she read?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "My parents live in Canada.",
+      "answers": [
+        "Where do your parents live?"
+      ],
+      "explanation": "Ask about the place with 'where'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "where"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "I like to cook because I like to make people happy.",
+      "answers": [
+        "Why do you like to cook?"
+      ],
+      "explanation": "Ask about the reason with 'why'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "why"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "Frank takes the bus to work.",
+      "answers": [
+        "How does Frank go to work?"
+      ],
+      "explanation": "Ask about the method with 'how'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "how"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-10",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "She bakes cakes by using cake mix.",
+      "answers": [
+        "How does she bake cakes?"
+      ],
+      "explanation": "Ask about the way something is done with 'how'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "how"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-11",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "New movies come out on Thursdays.",
+      "answers": [
+        "When do new movies come out?"
+      ],
+      "explanation": "Ask about the time with 'when'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "when"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-12",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "Israelis eat falafel.",
+      "answers": [
+        "What do Israelis eat?"
+      ],
+      "explanation": "Ask about the thing with 'what'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-13",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "You work hard.",
+      "answers": [
+        "Do you work hard?"
+      ],
+      "explanation": "Use 'do' with 'you'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-14",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "She knows Hungarian.",
+      "answers": [
+        "Does she know Hungarian?"
+      ],
+      "explanation": "Use 'does' with 'she', and change 'knows' to 'know'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-15",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "You eat with your family once a week.",
+      "answers": [
+        "Do you eat with your family once a week?"
+      ],
+      "explanation": "Use 'do' with 'you'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-16",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "Andy makes good food.",
+      "answers": [
+        "Does Andy make good food?"
+      ],
+      "explanation": "Use 'does' with 'Andy', and change 'makes' to 'make'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-17",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "I have a million dollars.",
+      "answers": [
+        "Do I have a million dollars?"
+      ],
+      "explanation": "Use 'do' with 'I'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.3-st-18",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "The train arrives at the station at 8:00 AM every day.",
+      "answers": [
+        "When does the train arrive at the station?"
+      ],
+      "explanation": "Ask about the time with 'when'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "when"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-19",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "She speaks Hungarian.",
+      "answers": [
+        "What does she speak?"
+      ],
+      "explanation": "Ask about the language with 'what'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.3-st-20",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "They love to play football.",
+      "answers": [
+        "What do they love to play?"
+      ],
+      "explanation": "Ask about the thing they love to play with 'what'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

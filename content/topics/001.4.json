@@ -1,0 +1,559 @@
+{
+  "id": "001.4",
+  "title": "Present Simple – Review",
+  "topic": "Present Simple",
+  "subtopic": "Review",
+  "description": "Mixed practice with positive, negative, and question forms in the Present Simple",
+  "lessons": [
+    {
+      "id": "001.4-lesson-1",
+      "title": "Quick Review of the Present Simple",
+      "content": "Use the Present Simple for routines, facts, habits, and stative verbs.\n\n| Form | Structure | Example |\n|------|-----------|---------|\n| Positive | Subject + Verb | She works hard. |\n| Negative | Subject + do/does not + Base Verb | She does not work on Sundays. |\n| Yes/No Question | Do/Does + Subject + Base Verb + ? | Does she work here? |\n| WH Question | Question word + do/does + Subject + Base Verb + ? | Where does she work? |\n\n📌 Remember: **he / she / it** takes **-s** in positive sentences, but after **does/doesn't** the main verb goes back to the **base form**."
+    },
+    {
+      "id": "001.4-lesson-2",
+      "title": "Final Check Before You Answer",
+      "content": "Before answering, quickly check these points:\n\n• In positive sentences, does **he / she / it** need **-s / -es / -ies**?\n• In negative sentences, did you choose **don't** or **doesn't** correctly?\n• In questions, did you use **do/does** and keep the verb in the base form?\n• Did you choose the right question word: **what, when, where, why, how, how many**?\n\n⚠️ Common mistakes:\n• **She doesn't lives here.** -> **She doesn't live here.**\n• **Does he wants cake?** -> **Does he want cake?**\n• **What you want to do?** -> **What do you want to do?**"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.4-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "School {_} at 9 o'clock every morning.",
+      "hint": "start",
+      "answers": [
+        "starts"
+      ],
+      "explanation": "Third person singular ('School') takes 'starts'.",
+      "tags": [
+        "review",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "I usually {_} up early.",
+      "hint": "wake",
+      "answers": [
+        "wake"
+      ],
+      "explanation": "With 'I', use the base verb: wake up.",
+      "tags": [
+        "review",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "My father {_} to work every Sunday.",
+      "hint": "go",
+      "answers": [
+        "goes"
+      ],
+      "explanation": "Third person singular ('My father') uses 'goes'.",
+      "tags": [
+        "review",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "We always {_} our hands before we eat.",
+      "hint": "wash",
+      "answers": [
+        "wash"
+      ],
+      "explanation": "With 'we', use the base verb: wash.",
+      "tags": [
+        "review",
+        "positive",
+        "first-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of the verb.",
+      "sentence": "They never {_} to class late.",
+      "hint": "come",
+      "answers": [
+        "come"
+      ],
+      "explanation": "With 'they', use the base verb: come.",
+      "tags": [
+        "review",
+        "positive",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "They work with us.",
+      "answers": [
+        "They don't work with us.",
+        "They do not work with us."
+      ],
+      "explanation": "Use 'don't' with 'they'.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "It rains a lot in the summer.",
+      "answers": [
+        "It doesn't rain a lot in the summer.",
+        "It does not rain a lot in the summer."
+      ],
+      "explanation": "Use 'doesn't' with 'it', and change 'rains' back to 'rain'.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "Marie cooks on Sundays.",
+      "answers": [
+        "Marie doesn't cook on Sundays.",
+        "Marie does not cook on Sundays."
+      ],
+      "explanation": "Use 'doesn't' with 'Marie', and keep the main verb in the base form.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "I eat meat.",
+      "answers": [
+        "I don't eat meat.",
+        "I do not eat meat."
+      ],
+      "explanation": "Use 'don't' with 'I'.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "We live together.",
+      "answers": [
+        "We don't live together.",
+        "We do not live together."
+      ],
+      "explanation": "Use 'don't' with 'we'.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "first-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "They speak English.",
+      "answers": [
+        "Do they speak English?"
+      ],
+      "explanation": "Use 'do' with 'they'.",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "It snows a lot in Russia.",
+      "answers": [
+        "Does it snow a lot in Russia?"
+      ],
+      "explanation": "Use 'does' with 'it', and change 'snows' to 'snow'.",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "You drink a lot of coffee.",
+      "answers": [
+        "Do you drink a lot of coffee?"
+      ],
+      "explanation": "Use 'do' with 'you'.",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "I talk a lot.",
+      "answers": [
+        "Do I talk a lot?"
+      ],
+      "explanation": "Use 'do' with 'I'.",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-10",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "Jack wants to come too.",
+      "answers": [
+        "Does Jack want to come too?"
+      ],
+      "explanation": "Use 'does' with 'Jack', and change 'wants' to 'want'.",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-st-11",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "He goes to work at 8:00 AM.",
+      "answers": [
+        "When does he go to work?"
+      ],
+      "explanation": "Ask about time with 'when'.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "when"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.4-st-12",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "You work in Miami.",
+      "answers": [
+        "Where do you work?"
+      ],
+      "explanation": "Ask about place with 'where'.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "where"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.4-st-13",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "She studies Latin.",
+      "answers": [
+        "What does she study?"
+      ],
+      "explanation": "Ask about the thing with 'what'.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.4-st-14",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "Chocolate makes me happy.",
+      "answers": [
+        "What makes me happy?"
+      ],
+      "explanation": "This asks about the subject, so there is no 'do/does': What makes me happy?",
+      "tags": [
+        "review",
+        "questions",
+        "subject-questions",
+        "what"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.4-st-15",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "They have three kids.",
+      "answers": [
+        "How many kids do they have?"
+      ],
+      "explanation": "Use 'how many' for countable nouns like kids.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "how-many"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.4-mc-1",
+      "type": "multiple-choice",
+      "sentence": "I {_} every day.",
+      "options": [
+        "swims",
+        "swimming",
+        "am swim",
+        "swim"
+      ],
+      "correct": 3,
+      "explanation": "With 'I', use the base verb: swim.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "positive"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-mc-2",
+      "type": "multiple-choice",
+      "sentence": "She {_} live here.",
+      "options": [
+        "don't",
+        "doesn't",
+        "didn't",
+        "is not"
+      ],
+      "correct": 1,
+      "explanation": "Third person singular uses 'doesn't'.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "negative",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-mc-3",
+      "type": "multiple-choice",
+      "sentence": "{_} you want to do?",
+      "options": [
+        "What do",
+        "Where does",
+        "What",
+        "Are"
+      ],
+      "correct": 0,
+      "explanation": "Use 'What do' for a WH question with 'you'.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "wh-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-mc-4",
+      "type": "multiple-choice",
+      "sentence": "{_} do you build a boat?",
+      "options": [
+        "What",
+        "When",
+        "How",
+        "If"
+      ],
+      "correct": 2,
+      "explanation": "Use 'how' to ask about the way something is done.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "wh-questions",
+        "how"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-mc-5",
+      "type": "multiple-choice",
+      "sentence": "They {_} work here.",
+      "options": [
+        "doesn't",
+        "is not",
+        "don't",
+        "does"
+      ],
+      "correct": 2,
+      "explanation": "Use 'don't' with 'they'.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "negative"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-mc-6",
+      "type": "multiple-choice",
+      "sentence": "I {_} three children.",
+      "options": [
+        "has",
+        "having",
+        "have",
+        "am have"
+      ],
+      "correct": 2,
+      "explanation": "With 'I', use 'have'.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-mc-7",
+      "type": "multiple-choice",
+      "sentence": "{_} you want to meet me?",
+      "options": [
+        "If",
+        "Where do",
+        "Is",
+        "How does"
+      ],
+      "correct": 1,
+      "explanation": "Use 'Where do' to ask about a place with 'you'.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "wh-questions",
+        "where"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.4-mc-8",
+      "type": "multiple-choice",
+      "sentence": "She always {_} late.",
+      "options": [
+        "come",
+        "coming",
+        "comes",
+        "is come"
+      ],
+      "correct": 2,
+      "explanation": "Third person singular ('she') takes 'comes'.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-mc-9",
+      "type": "multiple-choice",
+      "sentence": "{_} I know you?",
+      "options": [
+        "Do",
+        "Does",
+        "If",
+        "Am"
+      ],
+      "correct": 0,
+      "explanation": "Use 'do' with 'I' to form a yes/no question.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.4-mc-10",
+      "type": "multiple-choice",
+      "sentence": "Do you {_} cake?",
+      "options": [
+        "wanting",
+        "wants",
+        "want",
+        "are want"
+      ],
+      "correct": 2,
+      "explanation": "After 'do', use the base verb: want.",
+      "tags": [
+        "review",
+        "multiple-choice",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    }
+  ]
+}

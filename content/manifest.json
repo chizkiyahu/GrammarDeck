@@ -35,6 +35,28 @@
       "icon": "🚫",
       "color": "rose",
       "file": "content/topics/001.2.json"
+    },
+    {
+      "id": "001.3",
+      "title": "Present Simple – Questions",
+      "topic": "Present Simple",
+      "subtopic": "Questions",
+      "order": 4,
+      "description": "How to form yes/no and WH questions in the Present Simple",
+      "icon": "❓",
+      "color": "blue",
+      "file": "content/topics/001.3.json"
+    },
+    {
+      "id": "001.4",
+      "title": "Present Simple – Review",
+      "topic": "Present Simple",
+      "subtopic": "Review",
+      "order": 5,
+      "description": "Mixed practice with positive, negative, and question forms in the Present Simple",
+      "icon": "🧠",
+      "color": "violet",
+      "file": "content/topics/001.4.json"
     }
   ]
 }
