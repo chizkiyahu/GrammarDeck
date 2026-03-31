@@ -727,6 +727,18 @@ html.dark .select-input {
 }
 
 /* ── Hint & sentence boxes ──────────────────────────────────*/
+html.dark .instruction-text {
+  color: #94a3b8;
+}
+
+html.dark .sentence-text {
+  color: #f8fafc;
+}
+
+html.dark .blank-slot {
+  border-bottom-color: #a78bfa;
+}
+
 html.dark .hint-box {
   background-color: #1c1a05;
   border-color: #713f12;
