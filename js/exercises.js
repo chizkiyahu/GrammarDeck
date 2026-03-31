@@ -42,7 +42,13 @@ function difficultyStars(d = 1) {
 }
 
 function normalize(str) {
-  return str.trim().toLowerCase().replace(/\s+/g, ' ');
+  return str
+    .trim()
+    .toLowerCase()
+    .replace(/[’‘‛`´]/g, "'")
+    .replace(/([a-z])'([a-z])/g, '$1$2')
+    .replace(/\.+$/g, '')
+    .replace(/\s+/g, ' ');
 }
 
 function checkAnswer(userAnswer, acceptedAnswers) {
