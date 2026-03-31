@@ -210,7 +210,7 @@ class Store {
       seen,
       total,
       mastered,
-      percentage: masteredPercentage,
+      percentage: seenPercentage,
       seenPercentage,
       masteredPercentage,
     };
@@ -298,7 +298,7 @@ class Store {
   importJSON(json) {
     try {
       const parsed = JSON.parse(json);
-      if (!parsed.version) throw new Error('invalid');
+      if (!parsed.version) return false;
       this.data = this._normalizeData(parsed);
       this._save();
       return true;

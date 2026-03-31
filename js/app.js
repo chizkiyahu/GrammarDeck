@@ -46,7 +46,7 @@ function route() {
 
   if (!view || view === '') return renderHome();
   if (view === 'topic') return renderTopic(params[0]);
-  if (view === 'study') return renderStudy(params[0]);
+  if (view === 'study') return renderStudy(params[0], params[1]);
   if (view === 'practice') return renderPractice(params[0]);
   if (view === 'stats') return renderStats();
   if (view === 'settings') return renderSettings();
@@ -97,6 +97,16 @@ function progressBar(pct, colorClass = 'bg-violet-500') {
     </div>`;
 }
 
+function topicProgressDisplay(progress) {
+  const practiced = `${progress.seen}/${progress.total} practiced`;
+  const mastered = `${progress.mastered} mastered`;
+  return {
+    percentage: progress.seenPercentage,
+    practiced,
+    mastered,
+  };
+}
+
 function xpLevel(xp) {
   const level = Math.floor(xp / 100) + 1;
   const xpInLevel = xp % 100;
@@ -110,7 +120,7 @@ function navBar(active = '') {
     { path: '/settings', icon: '⚙️', label: 'Settings' },
   ];
   return `
-    <nav class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 flex z-50">
+    <nav class="app-nav fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 flex z-50">
       ${links.map(l => {
         const isActive = active === l.path;
         return `<a href="#${l.path}" class="nav-link ${isActive ? 'nav-link-active' : ''}">
@@ -141,6 +151,7 @@ async function renderHome() {
     const c = colorFor(meta.color);
     const isStarted = progress.seen > 0;
     const isComplete = progress.mastered === progress.total && progress.total > 0;
+    const display = topicProgressDisplay(progress);
 
     return `
       <article class="topic-card ${c.border} border-2 cursor-pointer hover:shadow-lg transition-all duration-200"
@@ -157,11 +168,12 @@ async function renderHome() {
         <h3 class="font-bold text-gray-800 text-base leading-tight">${meta.title}</h3>
         <p class="text-gray-500 text-sm mt-1 leading-relaxed">${meta.description}</p>
         <div class="mt-4">
-          ${progressBar(progress.percentage, c.bg)}
+          ${progressBar(display.percentage, c.bg)}
           <div class="flex justify-between text-xs text-gray-400 mt-1">
-            <span>${progress.mastered}/${progress.total} mastered</span>
-            <span>${progress.percentage}%</span>
+            <span>${display.practiced}</span>
+            <span>${display.percentage}%</span>
           </div>
+          <p class="text-xs text-gray-400 mt-1">${display.mastered}</p>
         </div>
       </article>`;
   }));
@@ -222,6 +234,7 @@ async function renderTopic(id) {
   const c = colorFor(meta.color);
   const sessions = store.getTopicSessions(id);
   const lastSession = sessions[sessions.length - 1];
+  const display = topicProgressDisplay(progress);
 
   // Exercise type breakdown
   const types = {};
@@ -250,11 +263,12 @@ async function renderTopic(id) {
         <!-- Progress card -->
         <div class="card mb-4">
           <h2 class="font-bold text-gray-700 mb-3">Your Progress</h2>
-          ${progressBar(progress.percentage, c.bg)}
+          ${progressBar(display.percentage, c.bg)}
           <div class="flex justify-between text-sm text-gray-500 mt-2">
-            <span>${progress.mastered}/${progress.total} mastered</span>
-            <span>${progress.percentage}%</span>
+            <span>${display.practiced}</span>
+            <span>${display.percentage}%</span>
           </div>
+          <p class="text-xs text-gray-400 mt-2">${display.mastered}</p>
           ${lastSession ? `<p class="text-xs text-gray-400 mt-2">Last session: ${new Date(lastSession.date).toLocaleDateString()} — ${lastSession.correct}/${lastSession.total} correct</p>` : ''}
         </div>
 
@@ -282,10 +296,15 @@ async function renderTopic(id) {
         ${data.lessons?.length ? `
         <div class="mt-6">
           <h2 class="font-bold text-gray-700 mb-3">Lessons</h2>
-          ${data.lessons.map(l => `
-            <div class="card mb-2">
+          ${data.lessons.map((l, idx) => `
+            <button
+              type="button"
+              onclick="navigate('/study/${id}/${idx}')"
+              class="card lesson-preview-btn mb-2 w-full text-left"
+              aria-label="Open lesson ${idx + 1}: ${l.title}">
+              <span class="lesson-preview-meta">Lesson ${idx + 1}</span>
               <h3 class="font-semibold text-gray-800">${l.title}</h3>
-            </div>`).join('')}
+            </button>`).join('')}
         </div>` : ''}
       </div>
     </div>
@@ -295,7 +314,7 @@ async function renderTopic(id) {
 
 // Study (theory) ────────────────────────────────────────────
 
-async function renderStudy(id) {
+async function renderStudy(id, startLesson = 0) {
   ROOT.innerHTML = `<div class="loading-screen"><div class="spinner"></div></div>`;
   const meta = topicMeta(id);
   const data = await loadTopic(id);
@@ -311,8 +330,8 @@ async function renderStudy(id) {
     return;
   }
 
-  let currentLesson = 0;
   const total = data.lessons.length;
+  const initialLesson = Math.min(Math.max(Number.parseInt(startLesson, 10) || 0, 0), total - 1);
 
   function renderLesson(idx) {
     const lesson = data.lessons[idx];
@@ -349,7 +368,7 @@ async function renderStudy(id) {
     ROOT.querySelector('#done-btn')?.addEventListener('click', () => navigate(`/practice/${id}`));
   }
 
-  renderLesson(0);
+  renderLesson(initialLesson);
 }
 
 // Practice (exercises) ─────────────────────────────────────
@@ -450,8 +469,6 @@ function endSession() {
   const pct = Math.round((correct / total) * 100);
   const emoji = pct === 100 ? '🏆' : pct >= 80 ? '🎉' : pct >= 60 ? '👍' : '💪';
   const topicId = session.topicId;
-  const sessionResults = session.results;
-  const sessionExercises = session.exercises;
 
   store.saveSession({ topicId, correct, total, duration });
   state.session = null;
@@ -535,15 +552,16 @@ async function renderStats() {
       progress = store.getTopicProgress(data.exercises || []);
     } catch {}
     const c = colorFor(meta.color);
+    const display = topicProgressDisplay(progress);
     return `
       <div class="flex items-center gap-3">
         <span class="text-2xl">${meta.icon}</span>
         <div class="flex-1">
           <p class="text-sm font-medium text-gray-700">${meta.subtopic}</p>
-          <p class="text-xs text-gray-400 mb-1">${progress.mastered}/${progress.total} mastered</p>
-          ${progressBar(progress.percentage, c.bg)}
+          <p class="text-xs text-gray-400 mb-1">${display.practiced} · ${display.mastered}</p>
+          ${progressBar(display.percentage, c.bg)}
         </div>
-        <span class="text-sm font-bold text-gray-600">${progress.percentage}%</span>
+        <span class="text-sm font-bold text-gray-600">${display.percentage}%</span>
       </div>`;
   }));
 
