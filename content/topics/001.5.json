@@ -1,0 +1,640 @@
+{
+  "id": "001.5",
+  "title": "Present Simple – To Be – Positive",
+  "topic": "Present Simple",
+  "subtopic": "To Be – Positive",
+  "description": "How to use am, is, and are in positive Present Simple sentences",
+  "lessons": [
+    {
+      "id": "001.5-lesson-1",
+      "title": "Positive Structure with To Be",
+      "content": "**Structure:** Subject + **am / is / are**\n\nUse **am** with **I**.\nUse **is** with **he / she / it** and singular nouns.\nUse **are** with **you / we / they** and plural nouns.\n\n| Subject | To be | Example |\n|---------|-------|---------|\n| I | am | I am happy. |\n| You | are | You are happy. |\n| We | are | We are happy. |\n| They | are | They are happy. |\n| He | is | He is happy. |\n| She | is | She is happy. |\n| It | is | It is happy. |"
+    },
+    {
+      "id": "001.5-lesson-2",
+      "title": "When We Use To Be",
+      "content": "We use **to be** before nouns, adjectives, locations, and time expressions.\n\n| Use | Example |\n|-----|---------|\n| Noun | I am a doctor. |\n| Adjective | She is smart. |\n| Location | We are at home. |\n| Time | The party is at 9. |\n\n📌 Use **am / is / are** when you describe what someone or something **is**, **where** it is, or **when** it is."
+    },
+    {
+      "id": "001.5-lesson-3",
+      "title": "Common Mistakes",
+      "content": "⚠️ Do not leave out the verb **to be**.\n⚠️ Do not add an extra pronoun after the subject.\n⚠️ Match the verb to the subject correctly: **I am**, **he/she/it is**, **you/we/they are**.\n\n| Incorrect | Correct |\n|-----------|---------|\n| Israel she very small. | Israel is very small. |\n| John he is a doctor. | John is a doctor. |\n| I tall. | I am tall. |\n| The children they smart. | The children are smart. |"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.5-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "We {_} from Sweden.",
+      "hint": "to be",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use 'are' with 'we'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "first-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "I {_} really angry with her.",
+      "hint": "to be",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Use 'am' with 'I'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "You {_} a good friend.",
+      "hint": "to be",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use 'are' with 'you'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "My mother {_} from Russia.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "A singular subject like 'my mother' takes 'is'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "The weather {_} very bad in the winter.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular subject 'the weather'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "The food in the kitchen {_} already cold.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular noun phrase 'the food'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-7",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "We {_} big fans of that show.",
+      "hint": "to be",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use 'are' with 'we'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "first-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-8",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "My sister {_} happy because she has a new friend.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "A singular subject like 'my sister' takes 'is'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-9",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "The neighbors {_} quite friendly.",
+      "hint": "to be",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use 'are' with the plural subject 'the neighbors'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-10",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "The book {_} very long.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular subject 'the book'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-11",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "I {_} sick today.",
+      "hint": "to be",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Use 'am' with 'I'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-12",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "Our house {_} very big.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular noun 'house'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-13",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "My mother {_} a doctor.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular subject 'my mother'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-14",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "Our parents {_} at the beach today.",
+      "hint": "to be",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use 'are' with the plural subject 'our parents'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-fb-15",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "I {_} hungry.",
+      "hint": "to be",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Use 'am' with 'I'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-ec-1",
+      "type": "error-correction",
+      "sentence": "We very happy.",
+      "answers": [
+        "We are very happy."
+      ],
+      "explanation": "Add 'are' because 'we' needs the verb 'to be'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.5-ec-2",
+      "type": "error-correction",
+      "sentence": "They is here.",
+      "answers": [
+        "They are here."
+      ],
+      "explanation": "Use 'are' with 'they', not 'is'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.5-ec-3",
+      "type": "error-correction",
+      "sentence": "The wedding on Monday.",
+      "answers": [
+        "The wedding is on Monday."
+      ],
+      "explanation": "Add 'is' to complete the sentence.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction",
+        "time"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.5-ec-4",
+      "type": "error-correction",
+      "sentence": "I be at home.",
+      "answers": [
+        "I am at home."
+      ],
+      "explanation": "Use 'am' with 'I', not the base form 'be'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction",
+        "location"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.5-ec-5",
+      "type": "error-correction",
+      "sentence": "My sister a doctor.",
+      "answers": [
+        "My sister is a doctor."
+      ],
+      "explanation": "Add 'is' after the singular subject 'my sister'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction",
+        "nouns"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.5-ec-6",
+      "type": "error-correction",
+      "sentence": "People here very friendly.",
+      "answers": [
+        "People here are very friendly."
+      ],
+      "explanation": "Add 'are' because 'people' is plural.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction",
+        "adjectives"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.5-ec-7",
+      "type": "error-correction",
+      "sentence": "I is tall.",
+      "answers": [
+        "I am tall."
+      ],
+      "explanation": "Use 'am' with 'I'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.5-ec-8",
+      "type": "error-correction",
+      "sentence": "My friend are here.",
+      "answers": [
+        "My friend is here.",
+        "My friends are here."
+      ],
+      "explanation": "With singular 'friend', use 'is'. If the noun is plural, 'friends are' is also correct.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "001.5-ec-9",
+      "type": "error-correction",
+      "sentence": "The teacher she in the classroom.",
+      "answers": [
+        "The teacher is in the classroom."
+      ],
+      "explanation": "Do not repeat the subject with an extra pronoun. Use one subject plus 'is'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction",
+        "word-order"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "001.5-ec-10",
+      "type": "error-correction",
+      "sentence": "Dogs very cute.",
+      "answers": [
+        "Dogs are very cute."
+      ],
+      "explanation": "Add 'are' because 'dogs' is plural.",
+      "tags": [
+        "to-be",
+        "positive",
+        "error-correction",
+        "adjectives"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.5-mc-1",
+      "type": "multiple-choice",
+      "sentence": "I {_} from New York.",
+      "options": [
+        "are",
+        "is",
+        "be",
+        "am"
+      ],
+      "correct": 3,
+      "explanation": "Use 'am' with 'I'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-2",
+      "type": "multiple-choice",
+      "sentence": "My parents {_} Russian.",
+      "options": [
+        "do",
+        "they",
+        "are",
+        "is"
+      ],
+      "correct": 2,
+      "explanation": "Use 'are' with the plural subject 'my parents'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-3",
+      "type": "multiple-choice",
+      "sentence": "It {_} cold outside.",
+      "options": [
+        "is",
+        "be",
+        "very",
+        "are"
+      ],
+      "correct": 0,
+      "explanation": "Use 'is' with 'it'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-4",
+      "type": "multiple-choice",
+      "sentence": "The party {_} at 8.",
+      "options": [
+        "be",
+        "are",
+        "was",
+        "is"
+      ],
+      "correct": 3,
+      "explanation": "Use 'is' with the singular subject 'the party'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "time"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-5",
+      "type": "multiple-choice",
+      "sentence": "They {_} my friends.",
+      "options": [
+        "not",
+        "be",
+        "am",
+        "are"
+      ],
+      "correct": 3,
+      "explanation": "Use 'are' with 'they'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-6",
+      "type": "multiple-choice",
+      "sentence": "The students {_} outside.",
+      "options": [
+        "they",
+        "are",
+        "am",
+        "is"
+      ],
+      "correct": 1,
+      "explanation": "Use 'are' with the plural subject 'the students'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "third-person-plural",
+        "location"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-7",
+      "type": "multiple-choice",
+      "sentence": "The book {_} heavy.",
+      "options": [
+        "be",
+        "is",
+        "are",
+        "it"
+      ],
+      "correct": 1,
+      "explanation": "Use 'is' with the singular subject 'the book'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-8",
+      "type": "multiple-choice",
+      "sentence": "The course {_} boring.",
+      "options": [
+        "does",
+        "is",
+        "do",
+        "are"
+      ],
+      "correct": 1,
+      "explanation": "Use 'is' with the singular subject 'the course'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-9",
+      "type": "multiple-choice",
+      "sentence": "I {_} so tired.",
+      "options": [
+        "am",
+        "here",
+        "is",
+        "be"
+      ],
+      "correct": 0,
+      "explanation": "Use 'am' with 'I'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.5-mc-10",
+      "type": "multiple-choice",
+      "sentence": "It {_} very early.",
+      "options": [
+        "am",
+        "are",
+        "is",
+        "does"
+      ],
+      "correct": 2,
+      "explanation": "Use 'is' with 'it'.",
+      "tags": [
+        "to-be",
+        "positive",
+        "multiple-choice",
+        "third-person",
+        "time"
+      ],
+      "difficulty": 1
+    }
+  ]
+}
