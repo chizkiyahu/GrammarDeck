@@ -152,7 +152,7 @@ function renderFillBlank(ex, container, onAnswer) {
   const sentenceHtml = ex.sentence.replace(
     '{_}',
     `<input type="text" id="fb-input" class="fill-input" placeholder="…"
-      autocomplete="off" spellcheck="false" autocorrect="off">`
+      autocomplete="off" spellcheck="false">`
   );
 
   container.innerHTML = `
@@ -273,7 +273,7 @@ function renderErrorCorrection(ex, container, onAnswer) {
       <p class="text-xl font-medium text-gray-800 mt-2">${ex.sentence}</p>
     </div>
     <textarea id="ec-input" class="correction-input mt-4" rows="2"
-      placeholder="Type the corrected sentence…" spellcheck="false" autocorrect="off"></textarea>
+      placeholder="Type the corrected sentence…" spellcheck="false"></textarea>
     <button id="submit-btn" class="btn-primary w-full mt-3">Check Answer</button>
     <div id="feedback-area"></div>
   `;
@@ -324,7 +324,7 @@ function renderSentenceTransform(ex, container, onAnswer) {
       <p class="text-lg font-medium text-gray-700">${ex.sentence}</p>
     </div>
     <textarea id="st-input" class="correction-input mt-4" rows="2"
-      placeholder="Write the transformed sentence…" spellcheck="false" autocorrect="off"></textarea>
+      placeholder="Write the transformed sentence…" spellcheck="false"></textarea>
     <button id="submit-btn" class="btn-primary w-full mt-3">Check Answer</button>
     <div id="feedback-area"></div>
   `;
