@@ -892,7 +892,7 @@ html.dark .bg-blue-50    { background-color: #0c1a2e !important; }
 html.dark .bg-gray-100.rounded-full { background-color: #334155 !important; }
 
 .progress-bar-fill { width: 0; }
-.progress-width-0 { width: 0%; }
+.progress-width-0 { width: 0; }
 .progress-width-1 { width: 1%; }
 .progress-width-2 { width: 2%; }
 .progress-width-3 { width: 3%; }

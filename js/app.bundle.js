@@ -354,7 +354,7 @@ function renderFlashcard(ex, container, onAnswer) {
         </div>
       </div>
     </div>
-    <div id="fc-actions" class="hidden flex gap-3 mt-6">
+    <div id="fc-actions" class="hidden gap-3 mt-6">
       <button id="fc-wrong" class="btn-secondary flex-1">\u{1F615} Didn't know</button>
       <button id="fc-right" class="btn-success flex-1">\u{1F389} Got it!</button>
     </div>
@@ -367,13 +367,16 @@ function renderFlashcard(ex, container, onAnswer) {
     if (!flipped) {
       card.classList.add("flipped");
       actions.classList.remove("hidden");
+      actions.classList.add("flex");
       wrongButton.focus();
       flipped = true;
     }
   };
   card.addEventListener("click", flip);
   card.addEventListener("keydown", (e) => {
-    if (e.key === "Enter" || e.key === " ") flip();
+    if (e.key !== "Enter" && e.key !== " ") return;
+    e.preventDefault();
+    flip();
   });
   return new Promise((resolve) => {
     container.querySelector("#fc-wrong").addEventListener("click", () => {

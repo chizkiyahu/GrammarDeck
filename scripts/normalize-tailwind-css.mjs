@@ -26,6 +26,11 @@ css = css.replace(
   'var(--tw-shadow-color, rgb(0 0 0 / 0.1))',
 );
 
+css = css.replace(
+  /var\(--tw-shadow-color,\s*(rgb\([^)]*\))\)/g,
+  '$1',
+);
+
 css = css.replace(/^\s*-o-tab-size:\s*.*\n/gm, '');
 css = css.replace(/^\s*-webkit-text-decoration:\s*.*\n/gm, '');
 css = css.replace(/(:\s*)0px;/g, '$10;');
