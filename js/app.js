@@ -54,7 +54,12 @@ function route() {
 }
 
 function navigate(path) {
-  window.location.hash = path;
+  const nextHash = path.startsWith('#') ? path : `#${path}`;
+  if (window.location.hash === nextHash) {
+    route();
+    return;
+  }
+  window.location.hash = nextHash;
 }
 
 // ── Data helpers ─────────────────────────────────────────────
