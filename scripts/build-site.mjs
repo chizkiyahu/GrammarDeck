@@ -1,0 +1,27 @@
+import { cp, mkdir, rm } from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const distDir = path.join(rootDir, 'dist');
+
+const entriesToCopy = [
+  'index.html',
+  'manifest.webmanifest',
+  'content',
+  'img',
+  'css/style.css',
+  'css/tailwind.css',
+  'js/app.bundle.js',
+];
+
+await rm(distDir, { recursive: true, force: true });
+await mkdir(distDir, { recursive: true });
+
+for (const relativePath of entriesToCopy) {
+  const sourcePath = path.join(rootDir, relativePath);
+  const targetPath = path.join(distDir, relativePath);
+  await mkdir(path.dirname(targetPath), { recursive: true });
+  await cp(sourcePath, targetPath, { recursive: true });
+}
+

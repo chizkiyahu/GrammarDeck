@@ -12,6 +12,10 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
+/* Improve contrast for small secondary utility text used across the app */
+.text-gray-400 { color: #6b7280 !important; }
+.text-gray-300 { color: #4b5563 !important; }
+
 /* ── Page layout ─────────────────────────────────────────── */
 .page-container {
   min-height: 100dvh;
@@ -91,7 +95,7 @@ body {
   align-items: center;
   flex: 1;
   padding: 8px 0 10px;
-  color: #9ca3af;
+  color: #6b7280;
   text-decoration: none;
   transition: color 0.15s;
 }
@@ -678,9 +682,9 @@ html.dark .bg-white    { background-color: #1e293b !important; }
 html.dark .text-gray-800 { color: #f1f5f9 !important; }
 html.dark .text-gray-700 { color: #e2e8f0 !important; }
 html.dark .text-gray-600 { color: #cbd5e1 !important; }
-html.dark .text-gray-500 { color: #94a3b8 !important; }
-html.dark .text-gray-400 { color: #64748b !important; }
-html.dark .text-gray-300 { color: #475569 !important; }
+html.dark .text-gray-500 { color: #cbd5e1 !important; }
+html.dark .text-gray-400 { color: #94a3b8 !important; }
+html.dark .text-gray-300 { color: #cbd5e1 !important; }
 
 /* ── Override Tailwind border utilities ──────────────────────*/
 html.dark .border-gray-200 { border-color: #334155 !important; }
@@ -712,7 +716,7 @@ html.dark nav.fixed {
   background-color: #1e293b;
   border-color: #334155;
 }
-html.dark .nav-link       { color: #64748b; }
+html.dark .nav-link       { color: #94a3b8; }
 html.dark .nav-link-active{ color: #a78bfa; }
 
 /* ── Back bar ───────────────────────────────────────────────*/
