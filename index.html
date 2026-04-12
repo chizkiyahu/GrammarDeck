@@ -25,9 +25,11 @@
     }
   </script>
 
-  <!-- Tailwind CSS (CDN, no build step needed) -->
-  <script>tailwind.config = { darkMode: 'class' };</script>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Tailwind CSS (vendored local browser runtime, no build step needed) -->
+  <script src="js/vendor/tailwindcss-browser.js"></script>
+  <script>
+    tailwind.config = { darkMode: 'class' };
+  </script>
 
   <!-- Custom styles -->
   <link rel="stylesheet" href="css/style.css">
