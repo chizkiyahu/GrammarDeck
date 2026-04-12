@@ -12,7 +12,7 @@ npm run build
 This generates:
 
 - `css/tailwind.css` — compiled Tailwind utilities used by the app (generated from `css/tailwind.input.css`)
-- `js/app.bundle.js` — bundled and minified browser JavaScript
+- `js/app.bundle.js` — bundled browser JavaScript
 - `dist/` — the production-ready site uploaded by GitHub Pages
 
 ## Development notes

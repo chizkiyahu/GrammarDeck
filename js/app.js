@@ -62,8 +62,6 @@ function navigate(path) {
   window.location.hash = nextHash;
 }
 
-// ── Data helpers ─────────────────────────────────────────────
-
 async function fetchJSON(url) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`Failed to fetch ${url}`);
@@ -98,7 +96,7 @@ function progressBar(pct, colorClass = 'bg-violet-500') {
   const safePct = Number.isFinite(pct) ? Math.max(0, Math.min(100, Math.round(pct))) : 0;
   return `
     <div class="w-full bg-gray-100 rounded-full h-2 overflow-hidden">
-      <div class="${colorClass} h-2 rounded-full transition-all duration-500" style="width:${safePct}%"></div>
+      <div class="progress-bar-fill progress-width-${safePct} ${colorClass} h-2 rounded-full transition-all duration-500"></div>
     </div>`;
 }
 

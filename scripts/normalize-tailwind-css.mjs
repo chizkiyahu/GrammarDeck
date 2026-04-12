@@ -7,6 +7,12 @@ const cssPath = path.join(rootDir, 'css', 'tailwind.css');
 
 let css = await readFile(cssPath, 'utf8');
 
+css = css.replace(
+  /(--tw-shadow-colored:\s*0 0 #0000;\n)/g,
+  `$1  --tw-shadow-color: rgb(0 0 0 / 0);
+`,
+);
+
 const usedCustomProps = new Set(
   Array.from(css.matchAll(/var\((--[\w-]+)/g), ([, name]) => name),
 );
@@ -20,6 +26,9 @@ css = css.replace(
   'var(--tw-shadow-color, rgb(0 0 0 / 0.1))',
 );
 
+css = css.replace(/^\s*-o-tab-size:\s*.*\n/gm, '');
+css = css.replace(/^\s*-webkit-text-decoration:\s*.*\n/gm, '');
+css = css.replace(/(:\s*)0px;/g, '$10;');
 css = css.replace(/flex:\s*1 1 0%;/g, 'flex: 1 1 0;');
 css = css.replace(/\n{3,}/g, '\n\n').trimEnd() + '\n';
 

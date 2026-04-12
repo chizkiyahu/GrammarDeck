@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build:css": "tailwindcss -c tailwind.config.js -i ./css/tailwind.input.css -o ./css/tailwind.css && node ./scripts/normalize-tailwind-css.mjs",
-    "build:js": "esbuild ./js/app.js --bundle --format=esm --platform=browser --target=es2020 --minify --outfile=./js/app.bundle.js",
+    "build:js": "esbuild ./js/app.js --bundle --format=esm --platform=browser --target=es2020 --outfile=./js/app.bundle.js",
     "build:site": "node ./scripts/build-site.mjs",
     "build": "npm run build:css && npm run build:js && npm run build:site"
   },
