@@ -1,0 +1,385 @@
+{
+  "id": "003.2",
+  "title": "Present Progressive – Negative",
+  "topic": "Present Progressive",
+  "subtopic": "Negative",
+  "description": "How to form negative sentences in the Present Progressive",
+  "lessons": [
+    {
+      "id": "003.2-lesson-1",
+      "title": "Negative Structure",
+      "content": "**Structure:** Subject + am/is/are + not + verb-ing\n\nUse **am not** with **I**.\nUse **is not** with **he / she / it** and singular nouns.\nUse **are not** with **you / we / they** and plural nouns.\n\n| Subject | To be + not | Verb-ing | Example |\n|---------|-------------|----------|---------|\n| I | am not | eating | I am not eating apples. |\n| You | are not | eating | You are not eating apples. |\n| We | are not | eating | We are not eating apples. |\n| They | are not | eating | They are not eating apples. |\n| He | is not | eating | He is not eating apples. |\n| She | is not | eating | She is not eating apples. |\n| It | is not | eating | It is not eating apples. |"
+    },
+    {
+      "id": "003.2-lesson-2",
+      "title": "Contractions",
+      "content": "In everyday English, we often shorten **is not** and **are not**.\n\n📌 **is not** = **isn't** → She isn't studying.\n📌 **are not** = **aren't** → They aren't working.\n📌 **am not** usually stays **am not** → I am not driving tonight.\n\n⚠️ Do not write **I amn't** in standard English."
+    },
+    {
+      "id": "003.2-lesson-3",
+      "title": "Common Mistakes",
+      "content": "⚠️ Always use the correct form of **to be** before **not**.\n⚠️ The main verb must end in **-ing**.\n⚠️ Keep the word order: **to be + not + verb-ing**.\n\n| Incorrect | Correct |\n|-----------|---------|\n| She is not study French. | She is not studying French. |\n| I not talking to you. | I am not talking to you. |\n| We are not work in Haifa. | We are not working in Haifa. |\n| He not is working out now. | He is not working out now. |"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "003.2-fc-1",
+      "type": "flashcard",
+      "question": "How do we form the Present Progressive negative?",
+      "answer": "Subject + am/is/are + not + verb-ing\n\nExample: She is not studying.",
+      "explanation": "The auxiliary verb 'to be' changes with the subject, and the main verb ends in -ing.",
+      "tags": ["negative", "theory"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fc-2",
+      "type": "flashcard",
+      "question": "Which negative form do we use with 'I' in the Present Progressive?",
+      "answer": "I am not + verb-ing\n\nExample: I am not driving tonight.",
+      "explanation": "Use 'am not' with 'I'.",
+      "tags": ["negative", "first-person", "theory"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fc-3",
+      "type": "flashcard",
+      "question": "What are the contractions for 'is not' and 'are not'?",
+      "answer": "is not = isn't\nare not = aren't",
+      "explanation": "'I am not' normally does not contract to 'amn't' in standard English.",
+      "tags": ["negative", "contractions", "theory"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "I {_} English right now.",
+      "hint": "study",
+      "answers": ["am not studying"],
+      "explanation": "With 'I', use 'am not' + verb-ing: I am not studying.",
+      "tags": ["negative", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "They {_} for the test.",
+      "hint": "study",
+      "answers": ["are not studying", "aren't studying"],
+      "explanation": "With 'they', use 'are not' or 'aren't' + verb-ing.",
+      "tags": ["negative", "third-person-plural", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "She {_} me.",
+      "hint": "annoy",
+      "answers": ["is not annoying", "isn't annoying"],
+      "explanation": "With 'she', use 'is not' or 'isn't' + verb-ing.",
+      "tags": ["negative", "third-person", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "We {_} dinner now.",
+      "hint": "cook",
+      "answers": ["are not cooking", "aren't cooking"],
+      "explanation": "With 'we', use 'are not' or 'aren't' + verb-ing.",
+      "tags": ["negative", "first-person-plural", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "You {_} hard today.",
+      "hint": "work",
+      "answers": ["are not working", "aren't working"],
+      "explanation": "With 'you', use 'are not' or 'aren't' + verb-ing.",
+      "tags": ["negative", "second-person", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "The workers {_} lunch.",
+      "hint": "eat",
+      "answers": ["are not eating", "aren't eating"],
+      "explanation": "'The workers' is plural, so use 'are not' or 'aren't' + verb-ing.",
+      "tags": ["negative", "third-person-plural", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-7",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "Andy {_} dinner tonight.",
+      "hint": "cook",
+      "answers": ["is not cooking", "isn't cooking"],
+      "explanation": "'Andy' is third-person singular, so use 'is not' or 'isn't' + verb-ing.",
+      "tags": ["negative", "third-person", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-8",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "The dog {_} a lot of noise.",
+      "hint": "make",
+      "answers": ["is not making", "isn't making"],
+      "explanation": "'The dog' is singular, so use 'is not' or 'isn't' + verb-ing. Drop the final -e in 'make' before adding -ing.",
+      "tags": ["negative", "third-person", "spelling", "contractions"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-fb-9",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "It {_} today.",
+      "hint": "snow",
+      "answers": ["is not snowing", "isn't snowing"],
+      "explanation": "With 'it', use 'is not' or 'isn't' + verb-ing.",
+      "tags": ["negative", "third-person", "weather", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-fb-10",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence in the Present Progressive negative.",
+      "sentence": "My daughter {_} at the moment.",
+      "hint": "work",
+      "answers": ["is not working", "isn't working"],
+      "explanation": "'My daughter' is third-person singular, so use 'is not' or 'isn't' + verb-ing.",
+      "tags": ["negative", "third-person", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-mc-1",
+      "type": "multiple-choice",
+      "sentence": "She {_} French now.",
+      "options": ["is not study", "does not studying", "is not studying", "not is studying"],
+      "correct": 2,
+      "explanation": "Present Progressive negative uses 'is not' + verb-ing: She is not studying.",
+      "tags": ["negative", "multiple-choice", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-mc-2",
+      "type": "multiple-choice",
+      "sentence": "Which sentence is correct?",
+      "options": ["We is not going out tonight.", "We are not going out tonight.", "We not are going out tonight.", "We are not go out tonight."],
+      "correct": 1,
+      "explanation": "With 'we', use 'are not' + verb-ing.",
+      "tags": ["negative", "multiple-choice", "first-person-plural"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-mc-3",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct contraction.",
+      "options": ["They isn't studying.", "They aren't studying.", "They am not studying.", "They doesn't studying."],
+      "correct": 1,
+      "explanation": "Use 'aren't' with 'they'.",
+      "tags": ["negative", "multiple-choice", "contractions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-mc-4",
+      "type": "multiple-choice",
+      "sentence": "I {_} the newspaper now.",
+      "options": ["am not reading", "is not reading", "are not reading", "do not reading"],
+      "correct": 0,
+      "explanation": "With 'I', use 'am not' + verb-ing.",
+      "tags": ["negative", "multiple-choice", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.2-mc-5",
+      "type": "multiple-choice",
+      "sentence": "Which sentence has the correct word order?",
+      "options": ["He not is working out now.", "He is working not out now.", "He is not working out now.", "He working out is not now."],
+      "correct": 2,
+      "explanation": "The correct order is subject + is + not + verb-ing.",
+      "tags": ["negative", "multiple-choice", "word-order"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "They are studying for the test.",
+      "answers": ["They are not studying for the test.", "They aren't studying for the test."],
+      "explanation": "Keep 'are' and add 'not' before the -ing verb.",
+      "tags": ["negative", "sentence-transform", "third-person-plural"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "She is annoying me.",
+      "answers": ["She is not annoying me.", "She isn't annoying me."],
+      "explanation": "Keep 'is' and add 'not' before the -ing verb.",
+      "tags": ["negative", "sentence-transform", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "We are cooking dinner.",
+      "answers": ["We are not cooking dinner.", "We aren't cooking dinner."],
+      "explanation": "With 'we', use 'are not' or 'aren't' + verb-ing.",
+      "tags": ["negative", "sentence-transform", "first-person-plural"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "I am going to Barcelona this weekend.",
+      "answers": ["I am not going to Barcelona this weekend."],
+      "explanation": "With 'I', use 'am not'.",
+      "tags": ["negative", "sentence-transform", "first-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "They are going home.",
+      "answers": ["They are not going home.", "They aren't going home."],
+      "explanation": "With 'they', use 'are not' or 'aren't' + verb-ing.",
+      "tags": ["negative", "sentence-transform", "third-person-plural"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "We are buying a house in Ramat Gan.",
+      "answers": ["We are not buying a house in Ramat Gan.", "We aren't buying a house in Ramat Gan."],
+      "explanation": "With 'we', use 'are not' or 'aren't' + verb-ing.",
+      "tags": ["negative", "sentence-transform", "first-person-plural"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the Present Simple negative sentence to the Present Progressive negative.",
+      "sentence": "We don't eat dinner.",
+      "answers": ["We are not eating dinner.", "We aren't eating dinner."],
+      "explanation": "Change 'don't eat' to 'are not eating' in the Present Progressive.",
+      "tags": ["negative", "sentence-transform", "present-simple-to-progressive"],
+      "difficulty": 3
+    },
+    {
+      "id": "003.2-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the Present Simple negative sentence to the Present Progressive negative.",
+      "sentence": "My brother doesn't draw.",
+      "answers": ["My brother is not drawing.", "My brother isn't drawing."],
+      "explanation": "'My brother' is third-person singular, so use 'is not' or 'isn't' + drawing.",
+      "tags": ["negative", "sentence-transform", "third-person", "present-simple-to-progressive"],
+      "difficulty": 3
+    },
+    {
+      "id": "003.2-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the Present Simple negative sentence to the Present Progressive negative.",
+      "sentence": "Tanya doesn't listen to music.",
+      "answers": ["Tanya is not listening to music.", "Tanya isn't listening to music."],
+      "explanation": "'Tanya' is third-person singular, so use 'is not' or 'isn't' + listening.",
+      "tags": ["negative", "sentence-transform", "third-person", "present-simple-to-progressive"],
+      "difficulty": 3
+    },
+    {
+      "id": "003.2-st-10",
+      "type": "sentence-transform",
+      "instruction": "Change the Present Simple negative sentence to the Present Progressive negative.",
+      "sentence": "Dylan doesn't play football.",
+      "answers": ["Dylan is not playing football.", "Dylan isn't playing football."],
+      "explanation": "'Dylan' is third-person singular, so use 'is not' or 'isn't' + playing.",
+      "tags": ["negative", "sentence-transform", "third-person", "present-simple-to-progressive"],
+      "difficulty": 3
+    },
+    {
+      "id": "003.2-ec-1",
+      "type": "error-correction",
+      "sentence": "They aren't study right now.",
+      "answers": ["They aren't studying right now.", "They are not studying right now."],
+      "explanation": "After 'aren't', use the -ing form: studying.",
+      "tags": ["negative", "error-correction", "contractions"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-ec-2",
+      "type": "error-correction",
+      "sentence": "My sister not sleeping now.",
+      "answers": ["My sister is not sleeping now.", "My sister isn't sleeping now."],
+      "explanation": "'My sister' is third-person singular, so add 'is not' or 'isn't'.",
+      "tags": ["negative", "error-correction", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-ec-3",
+      "type": "error-correction",
+      "sentence": "My mother not is cooking dinner tonight.",
+      "answers": ["My mother is not cooking dinner tonight.", "My mother isn't cooking dinner tonight."],
+      "explanation": "Use the correct word order: subject + is + not + verb-ing.",
+      "tags": ["negative", "error-correction", "word-order", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-ec-4",
+      "type": "error-correction",
+      "sentence": "It not snowing today.",
+      "answers": ["It is not snowing today.", "It isn't snowing today."],
+      "explanation": "With 'it', use 'is not' or 'isn't' before the -ing verb.",
+      "tags": ["negative", "error-correction", "third-person", "weather"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-ec-5",
+      "type": "error-correction",
+      "sentence": "We is not going out tonight.",
+      "answers": ["We are not going out tonight.", "We aren't going out tonight."],
+      "explanation": "With 'we', use 'are not' or 'aren't', not 'is not'.",
+      "tags": ["negative", "error-correction", "first-person-plural"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-ec-6",
+      "type": "error-correction",
+      "sentence": "Lisa is not join us.",
+      "answers": ["Lisa is not joining us.", "Lisa isn't joining us."],
+      "explanation": "The main verb must end in -ing: joining.",
+      "tags": ["negative", "error-correction", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-ec-7",
+      "type": "error-correction",
+      "sentence": "I not driving home tonight.",
+      "answers": ["I am not driving home tonight."],
+      "explanation": "With 'I', use 'am not' before the -ing verb.",
+      "tags": ["negative", "error-correction", "first-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.2-ec-8",
+      "type": "error-correction",
+      "sentence": "The call center is closed and not is accepting calls now.",
+      "answers": ["The call center is closed and is not accepting calls now.", "The call center is closed and isn't accepting calls now."],
+      "explanation": "Use 'is not accepting' after the second subject idea: the call center is not accepting calls now.",
+      "tags": ["negative", "error-correction", "word-order", "third-person"],
+      "difficulty": 3
+    }
+  ]
+}

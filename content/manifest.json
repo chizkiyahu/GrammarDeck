@@ -68,6 +68,105 @@
       "icon": "🟢",
       "color": "emerald",
       "file": "content/topics/001.5.json"
+    },
+    {
+      "id": "001.6",
+      "title": "Present Simple – To Be – Negative",
+      "topic": "Present Simple",
+      "subtopic": "To Be – Negative",
+      "order": 7,
+      "description": "How to use am not, is not, and are not in negative Present Simple sentences",
+      "icon": "🚫",
+      "color": "rose",
+      "file": "content/topics/001.6.json"
+    },
+    {
+      "id": "001.7",
+      "title": "Present Simple – To Be – Questions",
+      "topic": "Present Simple",
+      "subtopic": "To Be – Questions",
+      "order": 8,
+      "description": "How to form yes/no and WH questions with am, is, and are",
+      "icon": "❓",
+      "color": "blue",
+      "file": "content/topics/001.7.json"
+    },
+    {
+      "id": "001.8",
+      "title": "Present Simple – To Be – Review",
+      "topic": "Present Simple",
+      "subtopic": "To Be – Review",
+      "order": 9,
+      "description": "Mixed practice with positive, negative, and question forms of to be",
+      "icon": "🧠",
+      "color": "violet",
+      "file": "content/topics/001.8.json"
+    },
+    {
+      "id": "003.0",
+      "title": "Present Progressive – Rationale",
+      "topic": "Present Progressive",
+      "subtopic": "Rationale",
+      "order": 10,
+      "description": "When and why we use the Present Progressive tense",
+      "icon": "📖",
+      "color": "violet",
+      "file": "content/topics/003.0.json"
+    },
+    {
+      "id": "003.1",
+      "title": "Present Progressive – Positive",
+      "topic": "Present Progressive",
+      "subtopic": "Positive",
+      "order": 11,
+      "description": "How to form positive sentences in the Present Progressive",
+      "icon": "✅",
+      "color": "emerald",
+      "file": "content/topics/003.1.json"
+    },
+    {
+      "id": "003.2",
+      "title": "Present Progressive – Negative",
+      "topic": "Present Progressive",
+      "subtopic": "Negative",
+      "order": 12,
+      "description": "How to form negative sentences in the Present Progressive",
+      "icon": "🚫",
+      "color": "rose",
+      "file": "content/topics/003.2.json"
+    },
+    {
+      "id": "003.3",
+      "title": "Present Progressive – Questions",
+      "topic": "Present Progressive",
+      "subtopic": "Questions",
+      "order": 13,
+      "description": "How to form yes/no and WH questions in the Present Progressive",
+      "icon": "❓",
+      "color": "blue",
+      "file": "content/topics/003.3.json"
+    },
+    {
+      "id": "003.4",
+      "title": "Present Progressive – Review",
+      "topic": "Present Progressive",
+      "subtopic": "Review",
+      "order": 14,
+      "description": "Mixed practice with positive, negative, and question forms in the Present Progressive",
+      "icon": "🧠",
+      "color": "violet",
+      "file": "content/topics/003.4.json"
+    },
+    {
+      "id": "004.0",
+      "title": "Phrasal Verbs – Business",
+      "topic": "Phrasal Verbs",
+      "subtopic": "Business",
+      "order": 15,
+      "description": "Business phrasal verbs for meetings, projects, and workplace communication",
+      "icon": "💼",
+      "color": "blue",
+      "file": "content/topics/004.0.json"
     }
   ]
 }

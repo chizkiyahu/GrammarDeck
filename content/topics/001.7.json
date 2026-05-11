@@ -1,0 +1,802 @@
+{
+  "id": "001.7",
+  "title": "Present Simple – To Be – Questions",
+  "topic": "Present Simple",
+  "subtopic": "To Be – Questions",
+  "description": "How to form yes/no and WH questions with am, is, and are",
+  "lessons": [
+    {
+      "id": "001.7-lesson-1",
+      "title": "Yes/No Questions with To Be",
+      "content": "**Structure:** Am/Is/Are + Subject + ... ?\n\nTo make a yes/no question with **to be**, move **am / is / are** before the subject.\n\n| Statement | Question |\n|-----------|----------|\n| I am late. | Am I late? |\n| She is here. | Is she here? |\n| You are tired. | Are you tired? |\n| They are friends. | Are they friends? |\n\n📌 We do **not** use **do** or **does** with **am / is / are** questions."
+    },
+    {
+      "id": "001.7-lesson-2",
+      "title": "WH Questions with To Be",
+      "content": "**Structure:** Question word + am/is/are + Subject + ... ?\n\nPut the question word first, then **am / is / are**, then the subject.\n\n| Use | Question | Meaning |\n|-----|----------|---------|\n| Where | Where is Dan? | Ask about a place |\n| Who | Who is that woman? | Ask about a person |\n| What | What is that? | Ask about a thing or job |\n| How | How is Stacy today? | Ask about condition or feeling |\n| When | When is the party? | Ask about time |\n\n📌 The verb **to be** stays before the subject: **Where is she?** not **Where she is?**"
+    },
+    {
+      "id": "001.7-lesson-3",
+      "title": "Common Mistakes",
+      "content": "⚠️ Do not use **do/does** with **to be** questions.\n⚠️ Do not use **if** to make a normal question.\n⚠️ Do not keep statement word order in a question.\n\n| Incorrect | Correct |\n|-----------|---------|\n| Does she here? | Is she here? |\n| Do you American? | Are you American? |\n| You are happy? | Are you happy? |\n| If he sad? | Is he sad? |\n| When the party is? | When is the party? |"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.7-fc-1",
+      "type": "flashcard",
+      "question": "How do we form a yes/no question with 'to be'?",
+      "answer": "Am/Is/Are + subject + ...?\n\nExample: Are you tired?",
+      "explanation": "Move the form of 'to be' before the subject.",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fc-2",
+      "type": "flashcard",
+      "question": "Do we use 'do' or 'does' in questions with am/is/are?",
+      "answer": "No. Use am, is, or are before the subject.\n\nCorrect: Is she here?\nIncorrect: Does she here?",
+      "explanation": "'To be' works as the question verb by itself.",
+      "tags": [
+        "to-be",
+        "questions",
+        "do-does"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fc-3",
+      "type": "flashcard",
+      "question": "What is the structure for WH questions with 'to be'?",
+      "answer": "Question word + am/is/are + subject + ...?\n\nExample: Where is she now?",
+      "explanation": "The question word comes first, and 'to be' comes before the subject.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fc-4",
+      "type": "flashcard",
+      "question": "Which form of 'to be' goes with 'I' in a question?",
+      "answer": "Use 'am'.\n\nExample: Am I on time?",
+      "explanation": "'I' uses 'am', even in questions.",
+      "tags": [
+        "to-be",
+        "questions",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the yes/no question with the correct form of 'to be'.",
+      "sentence": "{_} you tired?",
+      "hint": "to be",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "Use 'are' with 'you': Are you tired?",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the yes/no question with the correct form of 'to be'.",
+      "sentence": "{_} she here?",
+      "hint": "to be",
+      "answers": [
+        "Is"
+      ],
+      "explanation": "Use 'is' with 'she': Is she here?",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the yes/no question with the correct form of 'to be'.",
+      "sentence": "{_} I on time?",
+      "hint": "to be",
+      "answers": [
+        "Am"
+      ],
+      "explanation": "Use 'am' with 'I': Am I on time?",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the yes/no question with the correct form of 'to be'.",
+      "sentence": "{_} they her friends?",
+      "hint": "to be",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "Use 'are' with 'they': Are they her friends?",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the WH question with the correct form of 'to be'.",
+      "sentence": "Where {_} Dan?",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular subject 'Dan': Where is Dan?",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "where"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the WH question with the correct form of 'to be'.",
+      "sentence": "Where {_} the students from?",
+      "hint": "to be",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use 'are' with the plural subject 'the students'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "where",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fb-7",
+      "type": "fill-blank",
+      "instruction": "Complete the WH question with the correct form of 'to be'.",
+      "sentence": "When {_} the party?",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular subject 'the party': When is the party?",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "when"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-fb-8",
+      "type": "fill-blank",
+      "instruction": "Complete the WH question with the correct form of 'to be'.",
+      "sentence": "How {_} your brother?",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular subject 'your brother': How is your brother?",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "how"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-mc-1",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct question.",
+      "options": [
+        "Does she here?",
+        "Is she here?",
+        "Do she here?",
+        "She is here?"
+      ],
+      "correct": 1,
+      "explanation": "Use 'is' before the subject: Is she here?",
+      "tags": [
+        "to-be",
+        "questions",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-mc-2",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct yes/no question.",
+      "options": [
+        "Do you American?",
+        "Are you American?",
+        "You are American?",
+        "Does you American?"
+      ],
+      "correct": 1,
+      "explanation": "Use 'are' with 'you': Are you American?",
+      "tags": [
+        "to-be",
+        "questions",
+        "multiple-choice",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-mc-3",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct WH question.",
+      "options": [
+        "Where she is now?",
+        "Where does she now?",
+        "Where is she now?",
+        "Where she now is?"
+      ],
+      "correct": 2,
+      "explanation": "WH question order is: Where + is + subject.",
+      "tags": [
+        "to-be",
+        "questions",
+        "multiple-choice",
+        "wh-questions",
+        "where"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-mc-4",
+      "type": "multiple-choice",
+      "sentence": "Which question asks about a person?",
+      "options": [
+        "Where is that woman?",
+        "Who is that woman?",
+        "When is that woman?",
+        "How many is that woman?"
+      ],
+      "correct": 1,
+      "explanation": "Use 'who' to ask about a person.",
+      "tags": [
+        "to-be",
+        "questions",
+        "multiple-choice",
+        "who"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-mc-5",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct question for this statement: The students are from France.",
+      "options": [
+        "Where the students are from?",
+        "Where are the students from?",
+        "Where do the students from?",
+        "Where is the students from?"
+      ],
+      "correct": 1,
+      "explanation": "Use 'are' before the plural subject: Where are the students from?",
+      "tags": [
+        "to-be",
+        "questions",
+        "multiple-choice",
+        "wh-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-mc-6",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct question.",
+      "options": [
+        "If we are late?",
+        "Are we late?",
+        "Do we late?",
+        "We are late?"
+      ],
+      "correct": 1,
+      "explanation": "Do not use 'if' to form a normal yes/no question. Use: Are we late?",
+      "tags": [
+        "to-be",
+        "questions",
+        "multiple-choice",
+        "yes-no-questions"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "Israel is small.",
+      "answers": [
+        "Is Israel small?"
+      ],
+      "explanation": "Move 'is' before the subject: Is Israel small?",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "sentence-transform"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "It is cold today.",
+      "answers": [
+        "Is it cold today?"
+      ],
+      "explanation": "Move 'is' before 'it'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "The dog is friendly.",
+      "answers": [
+        "Is the dog friendly?"
+      ],
+      "explanation": "Use 'is' before the singular subject 'the dog'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "My parents are serious people.",
+      "answers": [
+        "Are my parents serious people?"
+      ],
+      "explanation": "Use 'are' before the plural subject 'my parents'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "sentence-transform",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "This restaurant is expensive.",
+      "answers": [
+        "Is this restaurant expensive?"
+      ],
+      "explanation": "Move 'is' before the singular subject.",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "The traffic is bad today.",
+      "answers": [
+        "Is the traffic bad today?"
+      ],
+      "explanation": "Move only 'is' before the subject; do not repeat it after the subject.",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "sentence-transform",
+        "word-order"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "They are her friends.",
+      "answers": [
+        "Are they her friends?"
+      ],
+      "explanation": "Use 'are' before 'they'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "sentence-transform",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "I am ready.",
+      "answers": [
+        "Am I ready?"
+      ],
+      "explanation": "Use 'am' before 'I'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "yes-no-questions",
+        "sentence-transform",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.7-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question. Ask about the place.",
+      "sentence": "The Israel Museum is in Jerusalem.",
+      "answers": [
+        "Where is the Israel Museum?"
+      ],
+      "explanation": "Use 'where' for a place: Where is the Israel Museum?",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "sentence-transform",
+        "where"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-10",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question. Ask about the person.",
+      "sentence": "That woman is my mother.",
+      "answers": [
+        "Who is that woman?"
+      ],
+      "explanation": "Use 'who' to ask about a person.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "sentence-transform",
+        "who"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-11",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question. Ask about the thing.",
+      "sentence": "That is a chair.",
+      "answers": [
+        "What is that?"
+      ],
+      "explanation": "Use 'what' to ask about a thing.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "sentence-transform",
+        "what"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-12",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question. Ask about condition or feeling.",
+      "sentence": "Stacy is sick today.",
+      "answers": [
+        "How is Stacy today?"
+      ],
+      "explanation": "Use 'how' to ask about condition or feeling.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "sentence-transform",
+        "how"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-13",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question. Ask about the place.",
+      "sentence": "Dan is in his room.",
+      "answers": [
+        "Where is Dan?"
+      ],
+      "explanation": "Use 'where' and put 'is' before the subject.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "sentence-transform",
+        "where"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-14",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question. Ask about origin.",
+      "sentence": "The students are from France.",
+      "answers": [
+        "Where are the students from?"
+      ],
+      "explanation": "Use 'where' and 'are' with the plural subject 'the students'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "sentence-transform",
+        "where",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-15",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question. Ask about the people.",
+      "sentence": "Those are the teachers.",
+      "answers": [
+        "Who are those people?",
+        "Who are those?"
+      ],
+      "explanation": "Use 'who' to ask about people and 'are' with 'those'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "sentence-transform",
+        "who",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-st-16",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question. Ask about the job.",
+      "sentence": "She is a doctor.",
+      "answers": [
+        "What is she?"
+      ],
+      "explanation": "Use 'what' to ask about a person's job or role.",
+      "tags": [
+        "to-be",
+        "questions",
+        "wh-questions",
+        "sentence-transform",
+        "what"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "001.7-ec-1",
+      "type": "error-correction",
+      "sentence": "He is handsome?",
+      "answers": [
+        "Is he handsome?"
+      ],
+      "explanation": "Move 'is' before the subject to make a question.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "word-order"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-ec-2",
+      "type": "error-correction",
+      "sentence": "If we are late?",
+      "answers": [
+        "Are we late?"
+      ],
+      "explanation": "Do not use 'if' to make a normal yes/no question.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "yes-no-questions"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-ec-3",
+      "type": "error-correction",
+      "sentence": "Do they be American?",
+      "answers": [
+        "Are they American?"
+      ],
+      "explanation": "Use 'are' with 'they'; do not use 'do' with 'to be'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "do-does",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-ec-4",
+      "type": "error-correction",
+      "sentence": "I am on time?",
+      "answers": [
+        "Am I on time?"
+      ],
+      "explanation": "Use 'am' before 'I' in a question.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "first-person",
+        "word-order"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-ec-5",
+      "type": "error-correction",
+      "sentence": "When the party is?",
+      "answers": [
+        "When is the party?"
+      ],
+      "explanation": "In a WH question, put 'is' before the subject.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "wh-questions",
+        "when"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-ec-6",
+      "type": "error-correction",
+      "sentence": "If the party is at nine o'clock or ten o'clock?",
+      "answers": [
+        "Is the party at nine o'clock or ten o'clock?"
+      ],
+      "explanation": "Use 'is' before the subject; do not start the question with 'if'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "yes-no-questions"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "001.7-ec-7",
+      "type": "error-correction",
+      "sentence": "How your brother be?",
+      "answers": [
+        "How is your brother?"
+      ],
+      "explanation": "Use 'is' before the subject in a WH question with 'to be'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "wh-questions",
+        "how"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-ec-8",
+      "type": "error-correction",
+      "sentence": "If those are teachers?",
+      "answers": [
+        "Are those teachers?"
+      ],
+      "explanation": "Use 'are' before 'those'; do not use 'if' for a normal question.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-ec-9",
+      "type": "error-correction",
+      "sentence": "You are a student?",
+      "answers": [
+        "Are you a student?"
+      ],
+      "explanation": "Move 'are' before 'you' to form the question.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "second-person",
+        "word-order"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.7-ec-10",
+      "type": "error-correction",
+      "sentence": "Does Paul be happy?",
+      "answers": [
+        "Is Paul happy?"
+      ],
+      "explanation": "Use 'is' with the singular subject 'Paul'; do not use 'does' with 'to be'.",
+      "tags": [
+        "to-be",
+        "questions",
+        "error-correction",
+        "do-does",
+        "third-person"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

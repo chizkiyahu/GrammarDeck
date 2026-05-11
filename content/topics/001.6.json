@@ -1,0 +1,737 @@
+{
+  "id": "001.6",
+  "title": "Present Simple – To Be – Negative",
+  "topic": "Present Simple",
+  "subtopic": "To Be – Negative",
+  "description": "How to use am not, is not, and are not in negative Present Simple sentences",
+  "lessons": [
+    {
+      "id": "001.6-lesson-1",
+      "title": "Negative Structure with To Be",
+      "content": "**Structure:** Subject + **am / is / are** + **not**\n\nUse **am not** with **I**.\nUse **is not** with **he / she / it** and singular nouns.\nUse **are not** with **you / we / they** and plural nouns.\n\n| Subject | Negative form | Example |\n|---------|---------------|---------|\n| I | am not | I am not happy. |\n| You | are not | You are not happy. |\n| We | are not | We are not happy. |\n| They | are not | They are not happy. |\n| He | is not | He is not happy. |\n| She | is not | She is not happy. |\n| It | is not | It is not happy. |"
+    },
+    {
+      "id": "001.6-lesson-2",
+      "title": "Short Negative Forms",
+      "content": "**Is not** can become **isn't**.\n**Are not** can become **aren't**.\n**Am not** usually stays **am not** after **I**.\n\n| Long form | Short form | Example |\n|-----------|------------|---------|\n| is not | isn't | She isn't sleepy. |\n| are not | aren't | They aren't at home. |\n| am not | am not | I am not in the office. |\n\n📌 Both long forms and short forms are correct: **He is not here** = **He isn't here**."
+    },
+    {
+      "id": "001.6-lesson-3",
+      "title": "Common Mistakes",
+      "content": "⚠️ Do not leave out **am / is / are**.\n⚠️ Do not add an extra pronoun after a noun subject.\n⚠️ Put **not** after **am / is / are**.\n⚠️ Do not use **do not / does not** with the verb **to be**.\n\n| Incorrect | Correct |\n|-----------|---------|\n| I not a doctor. | I am not a doctor. |\n| John he not Israeli. | John is not Israeli. |\n| The children they not here. | The children are not here. |\n| It not is sunny today. | It is not sunny today. |"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.6-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct negative form of 'to be'.",
+      "sentence": "I {_} American.",
+      "hint": "to be + not",
+      "answers": [
+        "am not"
+      ],
+      "explanation": "Use 'am not' with 'I'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct negative form of 'to be'.",
+      "sentence": "She {_} angry with you.",
+      "hint": "to be + not",
+      "answers": [
+        "is not",
+        "isn't"
+      ],
+      "explanation": "Use 'is not' or 'isn't' with 'she'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct negative form of 'to be'.",
+      "sentence": "They {_} my friends.",
+      "hint": "to be + not",
+      "answers": [
+        "are not",
+        "aren't"
+      ],
+      "explanation": "Use 'are not' or 'aren't' with 'they'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct negative form of 'to be'.",
+      "sentence": "The office {_} big.",
+      "hint": "to be + not",
+      "answers": [
+        "is not",
+        "isn't"
+      ],
+      "explanation": "Use 'is not' or 'isn't' with the singular subject 'the office'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct negative form of 'to be'.",
+      "sentence": "We {_} in the library.",
+      "hint": "to be + not",
+      "answers": [
+        "are not",
+        "aren't"
+      ],
+      "explanation": "Use 'are not' or 'aren't' with 'we'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "first-person-plural",
+        "location"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct negative form of 'to be'.",
+      "sentence": "The party {_} at eight o'clock.",
+      "hint": "to be + not",
+      "answers": [
+        "is not",
+        "isn't"
+      ],
+      "explanation": "Use 'is not' or 'isn't' with the singular subject 'the party'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "third-person",
+        "time"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-fb-7",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct negative form of 'to be'.",
+      "sentence": "Those people {_} very polite.",
+      "hint": "to be + not",
+      "answers": [
+        "are not",
+        "aren't"
+      ],
+      "explanation": "Use 'are not' or 'aren't' with the plural subject 'those people'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "third-person-plural",
+        "adjectives"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-fb-8",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct negative form of 'to be'.",
+      "sentence": "London {_} in America.",
+      "hint": "to be + not",
+      "answers": [
+        "is not",
+        "isn't"
+      ],
+      "explanation": "Use 'is not' or 'isn't' with the singular place name 'London'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "third-person",
+        "location"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "She is my best friend.",
+      "answers": [
+        "She is not my best friend.",
+        "She isn't my best friend."
+      ],
+      "explanation": "Put 'not' after 'is'. The short form is 'isn't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "We are angry with her.",
+      "answers": [
+        "We are not angry with her.",
+        "We aren't angry with her."
+      ],
+      "explanation": "Put 'not' after 'are'. The short form is 'aren't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "first-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "I am in the office.",
+      "answers": [
+        "I am not in the office."
+      ],
+      "explanation": "Use 'am not' with 'I'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "first-person",
+        "location"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "The doctor is very professional.",
+      "answers": [
+        "The doctor is not very professional.",
+        "The doctor isn't very professional."
+      ],
+      "explanation": "A singular noun subject like 'the doctor' takes 'is not' or 'isn't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "The building is quite new.",
+      "answers": [
+        "The building is not quite new.",
+        "The building isn't quite new."
+      ],
+      "explanation": "Use 'is not' or 'isn't' with the singular subject 'the building'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "third-person",
+        "adjectives"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "The food in Egypt is delicious.",
+      "answers": [
+        "The food in Egypt is not delicious.",
+        "The food in Egypt isn't delicious."
+      ],
+      "explanation": "The singular noun phrase 'the food in Egypt' takes 'is not' or 'isn't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "third-person",
+        "adjectives"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "Those people are very polite.",
+      "answers": [
+        "Those people are not very polite.",
+        "Those people aren't very polite."
+      ],
+      "explanation": "A plural subject takes 'are not' or 'aren't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "third-person-plural",
+        "adjectives"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "She is sleepy.",
+      "answers": [
+        "She is not sleepy.",
+        "She isn't sleepy."
+      ],
+      "explanation": "Use 'is not' or 'isn't' with 'she'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "third-person",
+        "adjectives"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "Josh is tall.",
+      "answers": [
+        "Josh is not tall.",
+        "Josh isn't tall."
+      ],
+      "explanation": "A singular person takes 'is not' or 'isn't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "third-person",
+        "adjectives"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-st-10",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "The wedding is in June.",
+      "answers": [
+        "The wedding is not in June.",
+        "The wedding isn't in June."
+      ],
+      "explanation": "Use 'is not' or 'isn't' with the singular subject 'the wedding'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "sentence-transform",
+        "third-person",
+        "time"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-ec-1",
+      "type": "error-correction",
+      "sentence": "They is not at home.",
+      "answers": [
+        "They are not at home.",
+        "They aren't at home."
+      ],
+      "explanation": "Use 'are not' or 'aren't' with 'they'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-ec-2",
+      "type": "error-correction",
+      "sentence": "It not is sunny today.",
+      "answers": [
+        "It is not sunny today.",
+        "It isn't sunny today."
+      ],
+      "explanation": "Put 'not' after 'is': 'It is not sunny today.'",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "word-order",
+        "third-person"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-ec-3",
+      "type": "error-correction",
+      "sentence": "The doctor he is not here.",
+      "answers": [
+        "The doctor is not here.",
+        "The doctor isn't here."
+      ],
+      "explanation": "Do not add an extra pronoun after the noun subject 'the doctor'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "extra-pronoun",
+        "third-person"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-ec-4",
+      "type": "error-correction",
+      "sentence": "English are not hard.",
+      "answers": [
+        "English is not hard.",
+        "English isn't hard."
+      ],
+      "explanation": "The subject 'English' is singular, so use 'is not' or 'isn't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "third-person"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-ec-5",
+      "type": "error-correction",
+      "sentence": "She not be friendly.",
+      "answers": [
+        "She is not friendly.",
+        "She isn't friendly."
+      ],
+      "explanation": "Use the correct form of 'to be': 'is not' or 'isn't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "third-person"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-ec-6",
+      "type": "error-correction",
+      "sentence": "They not are at work.",
+      "answers": [
+        "They are not at work.",
+        "They aren't at work."
+      ],
+      "explanation": "Put 'not' after 'are': 'They are not at work.'",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "word-order",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-ec-7",
+      "type": "error-correction",
+      "sentence": "Her home not very big.",
+      "answers": [
+        "Her home is not very big.",
+        "Her home isn't very big."
+      ],
+      "explanation": "Do not leave out 'is' after the singular subject 'her home'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "third-person"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-ec-8",
+      "type": "error-correction",
+      "sentence": "Helen and Marie not Canadian.",
+      "answers": [
+        "Helen and Marie are not Canadian.",
+        "Helen and Marie aren't Canadian."
+      ],
+      "explanation": "Two people make a plural subject, so use 'are not' or 'aren't'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-ec-9",
+      "type": "error-correction",
+      "sentence": "I not am sleepy.",
+      "answers": [
+        "I am not sleepy."
+      ],
+      "explanation": "With 'I', the order is 'I am not', not 'I not am'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "word-order",
+        "first-person"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "001.6-ec-10",
+      "type": "error-correction",
+      "sentence": "Josh fat not is.",
+      "answers": [
+        "Josh is not fat.",
+        "Josh isn't fat."
+      ],
+      "explanation": "The correct order is subject + is + not + adjective.",
+      "tags": [
+        "to-be",
+        "negative",
+        "error-correction",
+        "word-order",
+        "third-person"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "001.6-mc-1",
+      "type": "multiple-choice",
+      "sentence": "He {_} in his room.",
+      "options": [
+        "are not",
+        "is not",
+        "be not",
+        "am not"
+      ],
+      "correct": 1,
+      "explanation": "Use 'is not' with 'he'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-mc-2",
+      "type": "multiple-choice",
+      "sentence": "Aya {_} angry with you.",
+      "options": [
+        "do not",
+        "am not",
+        "are not",
+        "is not"
+      ],
+      "correct": 3,
+      "explanation": "A singular name like 'Aya' takes 'is not'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-mc-3",
+      "type": "multiple-choice",
+      "sentence": "It {_} cold outside.",
+      "options": [
+        "is not",
+        "be not",
+        "not very",
+        "are not"
+      ],
+      "correct": 0,
+      "explanation": "Use 'is not' with 'it'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-mc-4",
+      "type": "multiple-choice",
+      "sentence": "The party {_} at eight o'clock.",
+      "options": [
+        "be not",
+        "is not",
+        "was",
+        "does not"
+      ],
+      "correct": 1,
+      "explanation": "Use 'is not' with the singular subject 'the party'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "third-person",
+        "time"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-mc-5",
+      "type": "multiple-choice",
+      "sentence": "They {_} teachers.",
+      "options": [
+        "not",
+        "are not",
+        "is not",
+        "is"
+      ],
+      "correct": 1,
+      "explanation": "Use 'are not' with 'they'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-mc-6",
+      "type": "multiple-choice",
+      "sentence": "I {_} a vegetarian.",
+      "options": [
+        "be",
+        "is",
+        "am not",
+        "it"
+      ],
+      "correct": 2,
+      "explanation": "Use 'am not' with 'I'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-mc-7",
+      "type": "multiple-choice",
+      "sentence": "The office {_} big.",
+      "options": [
+        "does not",
+        "is not",
+        "do not",
+        "are not"
+      ],
+      "correct": 1,
+      "explanation": "Use 'is not' with the singular subject 'the office'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-mc-8",
+      "type": "multiple-choice",
+      "sentence": "The wedding {_} in June.",
+      "options": [
+        "is not",
+        "here",
+        "is",
+        "be"
+      ],
+      "correct": 0,
+      "explanation": "Use 'is not' with the singular subject 'the wedding'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "third-person",
+        "time"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.6-mc-9",
+      "type": "multiple-choice",
+      "sentence": "The children {_} here.",
+      "options": [
+        "is not",
+        "are not",
+        "am not",
+        "not are"
+      ],
+      "correct": 1,
+      "explanation": "Use 'are not' with the plural subject 'the children'.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "third-person-plural",
+        "location"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.6-mc-10",
+      "type": "multiple-choice",
+      "sentence": "John {_} Israeli.",
+      "options": [
+        "he not",
+        "is not",
+        "are not",
+        "does not"
+      ],
+      "correct": 1,
+      "explanation": "Use 'is not' with a singular name. Do not add an extra pronoun.",
+      "tags": [
+        "to-be",
+        "negative",
+        "multiple-choice",
+        "extra-pronoun",
+        "third-person"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

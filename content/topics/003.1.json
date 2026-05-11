@@ -1,0 +1,437 @@
+{
+  "id": "003.1",
+  "title": "Present Progressive – Positive",
+  "topic": "Present Progressive",
+  "subtopic": "Positive",
+  "description": "How to form positive sentences in the Present Progressive",
+  "lessons": [
+    {
+      "id": "003.1-lesson-1",
+      "title": "Positive Structure",
+      "content": "**Structure:** Subject + am/is/are + verb-ing\n\nUse **am** with **I**.\nUse **is** with **he / she / it** and singular nouns.\nUse **are** with **you / we / they** and plural nouns.\n\n| Subject | To be | Verb-ing | Example |\n|---------|-------|----------|---------|\n| I | am | eating | I am eating apples. |\n| You | are | eating | You are eating apples. |\n| We | are | eating | We are eating apples. |\n| They | are | eating | They are eating apples. |\n| He | is | eating | He is eating apples. |\n| She | is | eating | She is eating apples. |\n| It | is | eating | It is eating apples. |"
+    },
+    {
+      "id": "003.1-lesson-2",
+      "title": "Time Phrases and Adverbs",
+      "content": "Present Progressive often describes actions happening **now**, **at the moment**, **currently**, or around a planned future time.\n\n📌 Time phrases can come at the beginning or the end of the sentence.\n📌 **Now we are leaving.**\n📌 **We are going out tonight.**\n📌 **I am currently preparing for my test.**\n\nAdverbs such as **always**, **constantly**, and **currently** usually come after **am/is/are**.\n\n| Time or adverb | Example |\n|----------------|---------|\n| now | Danny is sleeping now. |\n| at the moment | I am driving home at the moment. |\n| currently | I am currently preparing for my test. |\n| always | Kate is always playing loud music. |\n| constantly | You are constantly shouting. |"
+    },
+    {
+      "id": "003.1-lesson-3",
+      "title": "Common Mistakes",
+      "content": "⚠️ Always use **am / is / are** before the main verb.\n⚠️ The main verb must end in **-ing**.\n⚠️ Do not use the Present Progressive for routines with words like **every morning** unless the meaning is happening around now.\n\n| Incorrect | Correct |\n|-----------|---------|\n| She is study French. | She is studying French. |\n| I talking to you. | I am talking to you. |\n| We work in Haifa now. | We are working in Haifa now. |\n| He is work out now. | He is working out now. |"
+    },
+    {
+      "id": "003.1-lesson-4",
+      "title": "Spelling Rules for -ing",
+      "content": "🔤 **Most verbs:** add **-ing** → eat → eating, work → working\n🔤 **Verbs ending in -e:** drop **e** and add **-ing** → ride → riding, write → writing\n🔤 **Verbs ending in -ie:** change **ie** to **y** and add **-ing** → lie → lying, tie → tying\n🔤 **CVC verbs:** for consonant + stressed vowel + consonant, double the last consonant and add **-ing** → stop → stopping, run → running"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "003.1-fc-1",
+      "type": "flashcard",
+      "question": "How do we form a positive Present Progressive sentence?",
+      "answer": "Subject + am/is/are + verb-ing\n\ne.g. I am studying English.",
+      "explanation": "The verb 'to be' is required, and the main verb takes -ing.",
+      "tags": ["positive", "theory"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fc-2",
+      "type": "flashcard",
+      "question": "Which form of 'to be' goes with I, he/she/it, and we/you/they?",
+      "answer": "I am\nHe/She/It is\nWe/You/They are",
+      "explanation": "Choose am, is, or are according to the subject.",
+      "tags": ["positive", "to-be"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "I {_} home from work.",
+      "hint": "drive",
+      "answers": ["am driving"],
+      "explanation": "With 'I', use 'am' + verb-ing: am driving.",
+      "tags": ["positive", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "Currently, we {_} for the answer.",
+      "hint": "wait",
+      "answers": ["are waiting"],
+      "explanation": "With 'we', use 'are' + verb-ing: are waiting.",
+      "tags": ["positive", "first-person-plural", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "Jenny {_} next week.",
+      "hint": "come",
+      "answers": ["is coming"],
+      "explanation": "With a singular subject like Jenny, use 'is' + verb-ing.",
+      "tags": ["positive", "third-person", "future-arrangements"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "I {_} a book.",
+      "hint": "write",
+      "answers": ["am writing"],
+      "explanation": "Drop the final -e in 'write' before adding -ing: writing.",
+      "tags": ["positive", "first-person", "spelling"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "Our neighbors {_} tables and making a lot of noise.",
+      "hint": "drag",
+      "answers": ["are constantly dragging", "are dragging"],
+      "explanation": "Plural subject 'neighbors' takes 'are'. With adverbs like 'constantly', place the adverb after 'are'.",
+      "tags": ["positive", "third-person-plural", "adverbs", "spelling"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "I {_} to the party in a few minutes.",
+      "hint": "go",
+      "answers": ["am going"],
+      "explanation": "Use 'am' with 'I', then add -ing to the main verb.",
+      "tags": ["positive", "first-person", "future-arrangements"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-7",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "Jim {_} dinner; it will be ready soon.",
+      "hint": "cook",
+      "answers": ["is cooking"],
+      "explanation": "With a singular subject like Jim, use 'is' + verb-ing.",
+      "tags": ["positive", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-8",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "Nancy {_} to her mother now.",
+      "hint": "talk",
+      "answers": ["is talking"],
+      "explanation": "The time word 'now' points to Present Progressive: is talking.",
+      "tags": ["positive", "third-person", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-9",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "They {_} over later.",
+      "hint": "come",
+      "answers": ["are coming"],
+      "explanation": "With 'they', use 'are' + verb-ing: are coming.",
+      "tags": ["positive", "third-person-plural", "future-arrangements"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-10",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "My friend {_} around Europe.",
+      "hint": "travel",
+      "answers": ["is traveling", "is travelling"],
+      "explanation": "With a singular subject like 'my friend', use 'is' + verb-ing.",
+      "tags": ["positive", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-fb-11",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "The train {_} at the station.",
+      "hint": "stop",
+      "answers": ["is stopping"],
+      "explanation": "'Stop' is a CVC verb, so double the final consonant: stopping.",
+      "tags": ["positive", "third-person", "spelling"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-fb-12",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "We {_} in the park.",
+      "hint": "run",
+      "answers": ["are running"],
+      "explanation": "'Run' is a CVC verb, so double the final consonant: running.",
+      "tags": ["positive", "first-person-plural", "spelling"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-fb-13",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "He {_} his shoe laces.",
+      "hint": "tie",
+      "answers": ["is tying"],
+      "explanation": "For verbs ending in -ie, change ie to y and add -ing: tying.",
+      "tags": ["positive", "third-person", "spelling"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-fb-14",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "It sounds like he {_} to us.",
+      "hint": "lie",
+      "answers": ["is lying"],
+      "explanation": "For verbs ending in -ie, change ie to y and add -ing: lying.",
+      "tags": ["positive", "third-person", "spelling"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-fb-15",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "Kate {_} loud music.",
+      "hint": "always play",
+      "answers": ["is always playing"],
+      "explanation": "Adverbs like 'always' usually come after 'is': is always playing.",
+      "tags": ["positive", "third-person", "adverbs"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-fb-16",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive form of the verb.",
+      "sentence": "You {_} again.",
+      "hint": "constantly shout",
+      "answers": ["are constantly shouting"],
+      "explanation": "With 'you', use 'are'. Place 'constantly' after 'are': are constantly shouting.",
+      "tags": ["positive", "second-person", "adverbs"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-mc-1",
+      "type": "multiple-choice",
+      "sentence": "She {_} French right now.",
+      "options": ["is study", "is studying", "studies", "studying"],
+      "correct": 1,
+      "explanation": "Use is + verb-ing: She is studying French.",
+      "tags": ["positive", "multiple-choice", "third-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-mc-2",
+      "type": "multiple-choice",
+      "sentence": "We {_} dinner now.",
+      "options": ["are cooking", "cook", "is cooking", "are cook"],
+      "correct": 0,
+      "explanation": "The time word 'now' points to Present Progressive: We are cooking.",
+      "tags": ["positive", "multiple-choice", "first-person-plural", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-mc-3",
+      "type": "multiple-choice",
+      "sentence": "It {_} outside now.",
+      "options": ["snows", "is snow", "is snowing", "snowing"],
+      "correct": 2,
+      "explanation": "With 'it', use 'is' + verb-ing: is snowing.",
+      "tags": ["positive", "multiple-choice", "third-person", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-mc-4",
+      "type": "multiple-choice",
+      "sentence": "He {_} for you outside at the moment.",
+      "options": ["waits", "is waiting", "are waiting", "is wait"],
+      "correct": 1,
+      "explanation": "'At the moment' points to Present Progressive: is waiting.",
+      "tags": ["positive", "multiple-choice", "third-person", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-mc-5",
+      "type": "multiple-choice",
+      "sentence": "Currently, I {_} a book by Amos Oz.",
+      "options": ["read", "am reading", "am read", "reads"],
+      "correct": 1,
+      "explanation": "With 'I', use 'am' + verb-ing: am reading.",
+      "tags": ["positive", "multiple-choice", "first-person", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-mc-6",
+      "type": "multiple-choice",
+      "sentence": "They {_} later today.",
+      "options": ["come", "is coming", "are coming", "are come"],
+      "correct": 2,
+      "explanation": "With 'they', use 'are' + verb-ing: are coming.",
+      "tags": ["positive", "multiple-choice", "third-person-plural", "future-arrangements"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-mc-7",
+      "type": "multiple-choice",
+      "sentence": "The students are always {_} about their homework.",
+      "options": ["complain", "complains", "complaining", "are complaining"],
+      "correct": 2,
+      "explanation": "After 'are always', use the -ing form: complaining.",
+      "tags": ["positive", "multiple-choice", "adverbs"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-mc-8",
+      "type": "multiple-choice",
+      "sentence": "Which sentence is correct?",
+      "options": ["I am speak to my husband.", "I speaking to my husband.", "I am speaking to my husband.", "I speaks to my husband."],
+      "correct": 2,
+      "explanation": "The correct structure is subject + am/is/are + verb-ing.",
+      "tags": ["positive", "multiple-choice", "word-order"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-mc-9",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct -ing spelling.",
+      "options": ["writeing", "writing", "writting", "writesing"],
+      "correct": 1,
+      "explanation": "Drop the final -e before adding -ing: write → writing.",
+      "tags": ["positive", "multiple-choice", "spelling"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-mc-10",
+      "type": "multiple-choice",
+      "sentence": "Which sentence uses Present Simple, not Present Progressive?",
+      "options": ["We are cooking dinner now.", "It is snowing outside now.", "The kids always do their homework.", "My mom is helping me with my project."],
+      "correct": 2,
+      "explanation": "'Always do' describes a routine, so it is Present Simple.",
+      "tags": ["positive", "multiple-choice", "present-simple-vs-progressive", "routines"],
+      "difficulty": 3
+    },
+    {
+      "id": "003.1-ec-1",
+      "type": "error-correction",
+      "sentence": "I working right now.",
+      "answers": ["I am working right now."],
+      "explanation": "Use 'am' with 'I': I am working right now.",
+      "tags": ["positive", "error-correction", "first-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-ec-2",
+      "type": "error-correction",
+      "sentence": "My sister sleeping now.",
+      "answers": ["My sister is sleeping now."],
+      "explanation": "A singular subject needs 'is' before the -ing verb.",
+      "tags": ["positive", "error-correction", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-ec-3",
+      "type": "error-correction",
+      "sentence": "They is studying in the library.",
+      "answers": ["They are studying in the library."],
+      "explanation": "Use 'are' with 'they'.",
+      "tags": ["positive", "error-correction", "third-person-plural"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-ec-4",
+      "type": "error-correction",
+      "sentence": "We sing together now.",
+      "answers": ["We are singing together now."],
+      "explanation": "The time word 'now' calls for Present Progressive: are singing.",
+      "tags": ["positive", "error-correction", "first-person-plural", "time-phrases"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-ec-5",
+      "type": "error-correction",
+      "sentence": "The dog is eats the bone.",
+      "answers": ["The dog is eating the bone.", "The dog wants the bone."],
+      "explanation": "For Present Progressive, use 'is eating'. The PDF answer changes the meaning to 'wants', but the progressive correction is also grammatically valid.",
+      "tags": ["positive", "error-correction", "third-person"],
+      "difficulty": 3
+    },
+    {
+      "id": "003.1-ec-6",
+      "type": "error-correction",
+      "sentence": "My daughter she traveling to Canada tomorrow.",
+      "answers": ["My daughter is traveling to Canada tomorrow.", "My daughter is travelling to Canada tomorrow."],
+      "explanation": "Do not repeat the subject with 'she'. Use singular subject + is + verb-ing.",
+      "tags": ["positive", "error-correction", "third-person", "future-arrangements"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-ec-7",
+      "type": "error-correction",
+      "sentence": "The children they work on their homework.",
+      "answers": ["The children are working on their homework."],
+      "explanation": "Do not repeat the subject with 'they'. Use plural subject + are + verb-ing.",
+      "tags": ["positive", "error-correction", "third-person-plural"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-ec-8",
+      "type": "error-correction",
+      "sentence": "She is go to the doctor today.",
+      "answers": ["She is going to the doctor today."],
+      "explanation": "After 'is', use the -ing form: going.",
+      "tags": ["positive", "error-correction", "third-person"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-st-1",
+      "type": "sentence-transform",
+      "instruction": "Use the words to make a positive Present Progressive sentence.",
+      "sentence": "I / study / English",
+      "answers": ["I am studying English."],
+      "explanation": "Use I + am + studying.",
+      "tags": ["positive", "sentence-transform", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-st-2",
+      "type": "sentence-transform",
+      "instruction": "Use the words to make a positive Present Progressive sentence.",
+      "sentence": "Now / we / leave",
+      "answers": ["Now we are leaving.", "We are leaving now."],
+      "explanation": "The time phrase can come at the beginning or the end of the sentence.",
+      "tags": ["positive", "sentence-transform", "first-person-plural", "time-phrases"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.1-st-3",
+      "type": "sentence-transform",
+      "instruction": "Use the words to make a positive Present Progressive sentence.",
+      "sentence": "Danny / sleep / now",
+      "answers": ["Danny is sleeping now.", "Now Danny is sleeping."],
+      "explanation": "With a singular subject like Danny, use 'is' + verb-ing.",
+      "tags": ["positive", "sentence-transform", "third-person", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.1-st-4",
+      "type": "sentence-transform",
+      "instruction": "Use the words to make a positive Present Progressive sentence.",
+      "sentence": "I / currently / prepare / for my test",
+      "answers": ["I am currently preparing for my test."],
+      "explanation": "Place 'currently' after 'am' and use the -ing form: preparing.",
+      "tags": ["positive", "sentence-transform", "first-person", "adverbs", "spelling"],
+      "difficulty": 2
+    }
+  ]
+}

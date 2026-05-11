@@ -1,0 +1,264 @@
+{
+  "id": "003.0",
+  "title": "Present Progressive – Rationale",
+  "topic": "Present Progressive",
+  "subtopic": "Rationale",
+  "description": "When and why we use the Present Progressive tense",
+  "lessons": [
+    {
+      "id": "003.0-lesson-1",
+      "title": "Uses of the Present Progressive",
+      "content": "The Present Progressive can be used to speak about actions and situations connected to the present moment.\n\n📌 **Current actions** — things that are happening now\n*'I am driving now, please call me later.'*\n*'We are waiting for our friends.'*\n\n📌 **Temporary situations** — things that are true for a limited time and will change\n*'I am working on a project.'*\n*'I am living with my friend while my house is being renovated.'*\n\n📌 **Near future plans** — future actions with a specific time or time phrase\n*'The party is starting at 20:30.'*\n*'I am flying to Paris on Tuesday.'*\n\n📌 **Complaints** — repeated actions that bother you\n*'She is always telling me what to do!'*\n*'My neighbor is constantly blasting loud music.'*"
+    },
+    {
+      "id": "003.0-lesson-2",
+      "title": "Time Phrases and Complaint Words",
+      "content": "The Present Progressive often appears with words that show an action is happening now, is temporary, or is planned for the near future.\n\n⏰ **Time phrases for now or temporary situations:** now, at the moment, currently, presently, for the time being\n\n📅 **Near future time phrases:** on Tuesday, at 20:30, in five minutes, tonight, tomorrow\n\n🔁 **Complaint words:** always, constantly, continuously\n\n⚠️ When **always**, **constantly**, or **continuously** are used with the Present Progressive, the sentence often expresses annoyance or criticism:\n*'They are always fighting!'*"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "003.0-fc-1",
+      "type": "flashcard",
+      "question": "What tense do we use for actions happening right now?",
+      "answer": "Present Progressive\n\ne.g. 'I am driving now.'\n'We are waiting for our friends.'",
+      "explanation": "The Present Progressive describes actions in progress at the present moment.",
+      "tags": ["rationale", "current-actions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-fc-2",
+      "type": "flashcard",
+      "question": "What tense do we use for temporary situations?",
+      "answer": "Present Progressive\n\ne.g. 'I am working on a project.'\n'I am living with my friend for the time being.'",
+      "explanation": "Temporary situations are happening for a limited time and are expected to change.",
+      "tags": ["rationale", "temporary-situations"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-fc-3",
+      "type": "flashcard",
+      "question": "Can the Present Progressive describe the near future?",
+      "answer": "Yes, when the sentence includes a specific future time or time phrase.\n\ne.g. 'I am flying to Paris on Tuesday.'",
+      "explanation": "The time phrase makes it clear that the Present Progressive refers to a planned future action.",
+      "tags": ["rationale", "near-future"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-fc-4",
+      "type": "flashcard",
+      "question": "What do 'always' and 'constantly' often show in the Present Progressive?",
+      "answer": "They often show a complaint or annoyance.\n\ne.g. 'She is always telling me what to do!'",
+      "explanation": "With the Present Progressive, these adverbs can make repeated behavior sound annoying.",
+      "tags": ["rationale", "complaints", "adverbs-of-frequency"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-mc-1",
+      "type": "multiple-choice",
+      "sentence": "'My mother is cooking dinner.' This sentence uses the Present Progressive for:",
+      "options": ["A current action", "A permanent fact", "A habit", "A stative verb"],
+      "correct": 0,
+      "explanation": "Cooking dinner is happening now, so it is a current action.",
+      "tags": ["rationale", "current-actions"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-mc-2",
+      "type": "multiple-choice",
+      "sentence": "'I am living with my friend while my house is being renovated.' This sentence describes:",
+      "options": ["A routine", "A temporary situation", "A permanent fact", "A general opinion"],
+      "correct": 1,
+      "explanation": "The situation is temporary because it will change when the renovation is finished.",
+      "tags": ["rationale", "temporary-situations"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-mc-3",
+      "type": "multiple-choice",
+      "sentence": "'We are leaving in five minutes.' This sentence uses the Present Progressive for:",
+      "options": ["A complaint", "A fact", "A near future plan", "A routine"],
+      "correct": 2,
+      "explanation": "'In five minutes' is a specific future time phrase, so the sentence describes a near future plan.",
+      "tags": ["rationale", "near-future", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-mc-4",
+      "type": "multiple-choice",
+      "sentence": "'They are always fighting!' This sentence most likely expresses:",
+      "options": ["A neutral schedule", "A complaint", "A fact about science", "A one-time action only"],
+      "correct": 1,
+      "explanation": "Present Progressive with 'always' often expresses annoyance about repeated behavior.",
+      "tags": ["rationale", "complaints", "adverbs-of-frequency"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-mc-5",
+      "type": "multiple-choice",
+      "sentence": "Which phrase best signals a current action?",
+      "options": ["Every Monday", "Now", "Usually", "Once a year"],
+      "correct": 1,
+      "explanation": "'Now' signals that the action is happening at the present moment.",
+      "tags": ["rationale", "current-actions", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-mc-6",
+      "type": "multiple-choice",
+      "sentence": "Which phrase best signals a temporary situation?",
+      "options": ["For the time being", "Every summer", "Never", "In 1998"],
+      "correct": 0,
+      "explanation": "'For the time being' shows that the situation is temporary.",
+      "tags": ["rationale", "temporary-situations", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-mc-7",
+      "type": "multiple-choice",
+      "sentence": "Which sentence uses the Present Progressive for a near future plan?",
+      "options": [
+        "Water freezes at 0 degrees.",
+        "She reads before bed.",
+        "I am flying to Paris on Tuesday.",
+        "They like the new teacher."
+      ],
+      "correct": 2,
+      "explanation": "'On Tuesday' gives a specific future time for the planned action.",
+      "tags": ["rationale", "near-future"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-mc-8",
+      "type": "multiple-choice",
+      "sentence": "Which word is commonly used with the Present Progressive to express a complaint?",
+      "options": ["Usually", "Constantly", "Rarely", "Annually"],
+      "correct": 1,
+      "explanation": "'Constantly' can express annoyance when used with the Present Progressive.",
+      "tags": ["rationale", "complaints", "adverbs-of-frequency"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive.",
+      "sentence": "I {_} now, please call me later.",
+      "hint": "drive",
+      "answers": ["am driving"],
+      "explanation": "'Now' shows the action is happening at the present moment: am driving.",
+      "tags": ["current-actions", "first-person"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive.",
+      "sentence": "We {_} for our friends at the moment.",
+      "hint": "wait",
+      "answers": ["are waiting"],
+      "explanation": "'At the moment' signals a current action: are waiting.",
+      "tags": ["current-actions", "first-person-plural", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive.",
+      "sentence": "She {_} on a new project for the time being.",
+      "hint": "work",
+      "answers": ["is working"],
+      "explanation": "'For the time being' shows that this is a temporary situation.",
+      "tags": ["temporary-situations", "third-person", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive.",
+      "sentence": "The party {_} at 20:30.",
+      "hint": "start",
+      "answers": ["is starting"],
+      "explanation": "The specific future time, 'at 20:30', makes this a near future plan.",
+      "tags": ["near-future", "third-person", "time-phrases"],
+      "difficulty": 1
+    },
+    {
+      "id": "003.0-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive.",
+      "sentence": "They {_} during meetings!",
+      "hint": "always / argue",
+      "answers": ["are always arguing"],
+      "explanation": "Use are + always + verb-ing to express annoyance about repeated behavior.",
+      "tags": ["complaints", "third-person-plural", "adverbs-of-frequency"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the Present Progressive.",
+      "sentence": "My neighbor {_} loud music.",
+      "hint": "constantly / blast",
+      "answers": ["is constantly blasting"],
+      "explanation": "Use is + constantly + verb-ing to show a complaint about repeated behavior.",
+      "tags": ["complaints", "third-person", "adverbs-of-frequency"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-ec-1",
+      "type": "error-correction",
+      "sentence": "I drive now, please call me later.",
+      "answers": ["I am driving now, please call me later."],
+      "explanation": "'Now' shows an action in progress, so use the Present Progressive: am driving.",
+      "tags": ["current-actions", "error-correction"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-ec-2",
+      "type": "error-correction",
+      "sentence": "We wait for our friends at the moment.",
+      "answers": ["We are waiting for our friends at the moment."],
+      "explanation": "'At the moment' signals a current action, so use are waiting.",
+      "tags": ["current-actions", "error-correction", "time-phrases"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-ec-3",
+      "type": "error-correction",
+      "sentence": "I live with my friend for the time being.",
+      "answers": ["I am living with my friend for the time being."],
+      "explanation": "'For the time being' shows a temporary situation, so the Present Progressive is natural here.",
+      "tags": ["temporary-situations", "error-correction", "time-phrases"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-ec-4",
+      "type": "error-correction",
+      "sentence": "She always tells me what to do!",
+      "answers": ["She is always telling me what to do!"],
+      "explanation": "To express annoyance about repeated behavior, use the Present Progressive with 'always'.",
+      "tags": ["complaints", "error-correction", "adverbs-of-frequency"],
+      "difficulty": 3
+    },
+    {
+      "id": "003.0-st-1",
+      "type": "sentence-transform",
+      "instruction": "Rewrite the sentence as a near future plan using the Present Progressive.",
+      "sentence": "I will fly to Paris on Tuesday.",
+      "answers": ["I am flying to Paris on Tuesday."],
+      "explanation": "A planned future action with a specific time phrase can use the Present Progressive.",
+      "tags": ["near-future", "sentence-transform"],
+      "difficulty": 2
+    },
+    {
+      "id": "003.0-st-2",
+      "type": "sentence-transform",
+      "instruction": "Rewrite the sentence as a complaint using the Present Progressive.",
+      "sentence": "My neighbor blasts loud music all the time.",
+      "answers": ["My neighbor is constantly blasting loud music.", "My neighbor is always blasting loud music."],
+      "explanation": "Present Progressive with 'constantly' or 'always' can show annoyance about repeated behavior.",
+      "tags": ["complaints", "sentence-transform", "adverbs-of-frequency"],
+      "difficulty": 3
+    }
+  ]
+}

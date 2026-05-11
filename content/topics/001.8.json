@@ -1,0 +1,554 @@
+{
+  "id": "001.8",
+  "title": "Present Simple – To Be – Review",
+  "topic": "Present Simple",
+  "subtopic": "To Be – Review",
+  "description": "Mixed practice with positive, negative, and question forms of to be",
+  "lessons": [
+    {
+      "id": "001.8-lesson-1",
+      "title": "Forms of To Be",
+      "content": "Use **am / is / are** to describe people, things, places, times, and states.\n\n| Subject | To be | Example |\n|---------|-------|---------|\n| I | am | I am in the office. |\n| He / She / It | is | She is my sister. |\n| You / We / They | are | They are my friends. |\n| Singular noun | is | The party is at 9 o'clock. |\n| Plural noun | are | Our parents are at a play. |\n\n📌 Match **to be** to the subject before you choose the answer."
+    },
+    {
+      "id": "001.8-lesson-2",
+      "title": "Negative and Yes/No Questions",
+      "content": "For negative sentences, put **not** after **am / is / are**.\n\n| Positive | Negative |\n|----------|----------|\n| I am a doctor. | I am not a doctor. |\n| She is my sister. | She is not my sister. |\n| They are at home. | They are not at home. |\n\nFor yes/no questions, move **am / is / are** before the subject.\n\n| Sentence | Question |\n|----------|----------|\n| You are a teacher. | Are you a teacher? |\n| The wedding is on Wednesday. | Is the wedding on Wednesday? |\n| Our parents are at a play. | Are our parents at a play? |\n\n📌 Common contractions: **is not = isn't**, **are not = aren't**. **I am not** does not usually contract to **amn't**."
+    },
+    {
+      "id": "001.8-lesson-3",
+      "title": "WH Questions with To Be",
+      "content": "For WH questions with **to be**, put the question word first, then **am / is / are**, then the subject.\n\n**Structure:** Question word + **am / is / are** + subject + ?\n\n| Answer | Question |\n|--------|----------|\n| The party is at 8 o'clock. | When is the party? |\n| That is a dog. | What is that? |\n| They are my cousins. | Who are they? |\n| London is in England. | Where is London? |\n\n⚠️ Do not use **do / does** in normal questions with **to be**: **Is he sick?** not **Does he be sick?**"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "001.8-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "The party {_} at 9 o'clock.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with the singular subject 'the party'.",
+      "tags": [
+        "to-be",
+        "review",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "We {_} good students.",
+      "hint": "to be",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use 'are' with 'we'.",
+      "tags": [
+        "to-be",
+        "review",
+        "positive",
+        "first-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "I {_} in the office.",
+      "hint": "to be",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Use 'am' with 'I'.",
+      "tags": [
+        "to-be",
+        "review",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "It {_} beautiful outside.",
+      "hint": "to be",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use 'is' with 'it'.",
+      "tags": [
+        "to-be",
+        "review",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct form of 'to be'.",
+      "sentence": "They {_} my friends.",
+      "hint": "to be",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use 'are' with 'they'.",
+      "tags": [
+        "to-be",
+        "review",
+        "positive",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "I am a doctor.",
+      "answers": [
+        "I am not a doctor.",
+        "I'm not a doctor."
+      ],
+      "explanation": "Put 'not' after 'am'. The common contraction is 'I'm not'.",
+      "tags": [
+        "to-be",
+        "review",
+        "negative",
+        "sentence-transform",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "They are at home.",
+      "answers": [
+        "They are not at home.",
+        "They aren't at home.",
+        "They're not at home."
+      ],
+      "explanation": "Put 'not' after 'are'. Both 'aren't' and 'they're not' are correct contractions.",
+      "tags": [
+        "to-be",
+        "review",
+        "negative",
+        "sentence-transform",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "She is my sister.",
+      "answers": [
+        "She is not my sister.",
+        "She isn't my sister.",
+        "She's not my sister."
+      ],
+      "explanation": "Put 'not' after 'is'. Both 'isn't' and 'she's not' are correct contractions.",
+      "tags": [
+        "to-be",
+        "review",
+        "negative",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "That is my dog.",
+      "answers": [
+        "That is not my dog.",
+        "That isn't my dog.",
+        "That's not my dog."
+      ],
+      "explanation": "Use 'is not', 'isn't', or contract the subject and verb: 'that's not'.",
+      "tags": [
+        "to-be",
+        "review",
+        "negative",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "We are good friends.",
+      "answers": [
+        "We are not good friends.",
+        "We aren't good friends.",
+        "We're not good friends."
+      ],
+      "explanation": "Put 'not' after 'are'. Both 'aren't' and 'we're not' are correct contractions.",
+      "tags": [
+        "to-be",
+        "review",
+        "negative",
+        "sentence-transform",
+        "first-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "They are from China.",
+      "answers": [
+        "Are they from China?"
+      ],
+      "explanation": "Move 'are' before the subject: Are they...?",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "The wedding is on Wednesday.",
+      "answers": [
+        "Is the wedding on Wednesday?"
+      ],
+      "explanation": "Move 'is' before the subject: Is the wedding...?",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "You are married.",
+      "answers": [
+        "Are you married?"
+      ],
+      "explanation": "Move 'are' before 'you'.",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "yes-no-questions",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "I am a good student.",
+      "answers": [
+        "Am I a good student?"
+      ],
+      "explanation": "Move 'am' before 'I'.",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "yes-no-questions",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-10",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "Our parents are at a play.",
+      "answers": [
+        "Are our parents at a play?"
+      ],
+      "explanation": "Move 'are' before the plural subject 'our parents'.",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-st-11",
+      "type": "sentence-transform",
+      "instruction": "Make a WH question for the underlined information.",
+      "sentence": "The party is at 8 o'clock.",
+      "answers": [
+        "When is the party?"
+      ],
+      "explanation": "Use 'when' to ask about time, then put 'is' before the subject.",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "wh-questions",
+        "when"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.8-st-12",
+      "type": "sentence-transform",
+      "instruction": "Make a WH question for the underlined information.",
+      "sentence": "That is a dog.",
+      "answers": [
+        "What is that?"
+      ],
+      "explanation": "Use 'what' to ask about a thing: What is that?",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.8-st-13",
+      "type": "sentence-transform",
+      "instruction": "Make a WH question for the underlined information.",
+      "sentence": "They are my cousins.",
+      "answers": [
+        "Who are they?"
+      ],
+      "explanation": "Use 'who' to ask about people, then put 'are' before 'they'.",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "wh-questions",
+        "who"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.8-st-14",
+      "type": "sentence-transform",
+      "instruction": "Make a WH question for the underlined information.",
+      "sentence": "London is in England.",
+      "answers": [
+        "Where is London?"
+      ],
+      "explanation": "Use 'where' to ask about a place.",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "wh-questions",
+        "where"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.8-st-15",
+      "type": "sentence-transform",
+      "instruction": "Make a WH question for the underlined information.",
+      "sentence": "My brother is the short one.",
+      "answers": [
+        "Which one is my brother?",
+        "Which is my brother?"
+      ],
+      "explanation": "Use 'which' to choose one person from a group.",
+      "tags": [
+        "to-be",
+        "review",
+        "questions",
+        "wh-questions",
+        "which"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "001.8-mc-1",
+      "type": "multiple-choice",
+      "sentence": "I {_} young.",
+      "options": [
+        "am",
+        "is",
+        "be",
+        "are"
+      ],
+      "correct": 0,
+      "explanation": "Use 'am' with 'I'.",
+      "tags": [
+        "to-be",
+        "review",
+        "multiple-choice",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-mc-2",
+      "type": "multiple-choice",
+      "sentence": "She {_} from America.",
+      "options": [
+        "doesn't",
+        "aren't",
+        "not",
+        "isn't"
+      ],
+      "correct": 3,
+      "explanation": "Use 'isn't' for a negative sentence with 'she'.",
+      "tags": [
+        "to-be",
+        "review",
+        "multiple-choice",
+        "negative",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-mc-3",
+      "type": "multiple-choice",
+      "sentence": "{_} they here yet?",
+      "options": [
+        "Does",
+        "Do",
+        "Are",
+        "Is"
+      ],
+      "correct": 2,
+      "explanation": "Questions with 'to be' use am/is/are before the subject. With 'they', use 'are'.",
+      "tags": [
+        "to-be",
+        "review",
+        "multiple-choice",
+        "questions",
+        "yes-no-questions"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-mc-4",
+      "type": "multiple-choice",
+      "sentence": "He {_} always sick.",
+      "options": [
+        "be",
+        "do",
+        "are",
+        "is"
+      ],
+      "correct": 3,
+      "explanation": "Use 'is' with 'he'.",
+      "tags": [
+        "to-be",
+        "review",
+        "multiple-choice",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-mc-5",
+      "type": "multiple-choice",
+      "sentence": "You {_} very tall.",
+      "options": [
+        "aren't",
+        "don't",
+        "not",
+        "isn't"
+      ],
+      "correct": 0,
+      "explanation": "Use 'aren't' for a negative sentence with 'you'.",
+      "tags": [
+        "to-be",
+        "review",
+        "multiple-choice",
+        "negative",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-mc-6",
+      "type": "multiple-choice",
+      "sentence": "{_} I smart?",
+      "options": [
+        "Are",
+        "Do",
+        "Am",
+        "If"
+      ],
+      "correct": 2,
+      "explanation": "Move 'am' before 'I' to form the question: Am I smart?",
+      "tags": [
+        "to-be",
+        "review",
+        "multiple-choice",
+        "questions",
+        "yes-no-questions",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "001.8-ec-1",
+      "type": "error-correction",
+      "sentence": "Does he be always sick?",
+      "answers": [
+        "Is he always sick?"
+      ],
+      "explanation": "Do not use 'does' with 'to be'. Move 'is' before the subject.",
+      "tags": [
+        "to-be",
+        "review",
+        "error-correction",
+        "questions"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "001.8-ec-2",
+      "type": "error-correction",
+      "sentence": "They is my friends.",
+      "answers": [
+        "They are my friends."
+      ],
+      "explanation": "Use 'are' with 'they'.",
+      "tags": [
+        "to-be",
+        "review",
+        "error-correction",
+        "positive",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    }
+  ]
+}

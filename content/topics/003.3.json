@@ -1,0 +1,618 @@
+{
+  "id": "003.3",
+  "title": "Present Progressive – Questions",
+  "topic": "Present Progressive",
+  "subtopic": "Questions",
+  "description": "How to form yes/no and WH questions in the Present Progressive",
+  "lessons": [
+    {
+      "id": "003.3-lesson-1",
+      "title": "Yes/No Question Structure",
+      "content": "**Structure:** Am/Is/Are + Subject + Verb-ing + ?\n\nTo make a yes/no question in the Present Progressive, move **am / is / are** before the subject.\n\nUse **am** with **I**.\nUse **is** with **he / she / it** and singular nouns.\nUse **are** with **you / we / they** and plural nouns.\n\n| Subject | To be | Verb | Question |\n|---------|-------|------|----------|\n| I | am | eating | Am I eating apples? |\n| You | are | eating | Are you eating apples? |\n| We | are | eating | Are we eating apples? |\n| They | are | eating | Are they eating apples? |\n| He | is | eating | Is he eating apples? |\n| She | is | eating | Is she eating apples? |\n| It | is | eating | Is it eating apples? |"
+    },
+    {
+      "id": "003.3-lesson-2",
+      "title": "WH Question Structure",
+      "content": "**Structure:** Question word + am/is/are + Subject + Verb-ing + ?\n\nPut the question word first, then use the same Present Progressive question order.\n\n📌 **What are you doing tonight?**\n📌 **Where is Simon playing?**\n📌 **Why are we watching TV?**\n📌 **Who are they waiting for?**\n\nCommon question words include **what, where, when, why, who,** and **how**."
+    },
+    {
+      "id": "003.3-lesson-3",
+      "title": "Asking About the Action",
+      "content": "When you ask about the action someone is doing, you can use **What + am/is/are + subject + doing?**\n\n| Sentence | Question |\n|----------|----------|\n| Jordan is sleeping. | What is Jordan doing? |\n| George and Mary are fighting. | What are George and Mary doing? |\n| I am looking for a job. | What am I doing? |\n\n🔤 If you ask about the object, use the main verb: **What is she baking?**\n🔤 If you ask about the whole action, use **doing**: **What is she doing?**"
+    },
+    {
+      "id": "003.3-lesson-4",
+      "title": "Common Mistakes",
+      "content": "⚠️ Do **not** use **if** to form a normal question.\n⚠️ Do **not** leave out **am / is / are**.\n⚠️ Do **not** leave the main verb in the base form.\n⚠️ Do **not** keep statement word order in a question.\n\n| Incorrect | Correct |\n|-----------|---------|\n| If she is studying French? | Is she studying French? |\n| You listening to me? | Are you listening to me? |\n| Are you drive to Haifa? | Are you driving to Haifa? |\n| You are working now? | Are you working now? |"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "003.3-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the yes/no question with the correct form of 'to be'.",
+      "sentence": "{_} you listening to me?",
+      "hint": "you",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "Use 'are' with 'you': Are you listening to me?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the yes/no question with the correct form of 'to be'.",
+      "sentence": "{_} she studying French?",
+      "hint": "she",
+      "answers": [
+        "Is"
+      ],
+      "explanation": "Use 'is' with 'she': Is she studying French?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the yes/no question with the correct form of 'to be'.",
+      "sentence": "{_} they coming to the party tonight?",
+      "hint": "they",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "Use 'are' with 'they': Are they coming...?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the question with the correct -ing verb.",
+      "sentence": "Are you {_} to Haifa?",
+      "hint": "drive",
+      "answers": [
+        "driving"
+      ],
+      "explanation": "Present Progressive questions use am/is/are + verb-ing: Are you driving...?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "spelling"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the WH question with the correct form of 'to be'.",
+      "sentence": "What {_} you doing tonight?",
+      "hint": "you",
+      "answers": [
+        "are"
+      ],
+      "explanation": "WH questions use question word + am/is/are + subject + verb-ing.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-fb-6",
+      "type": "fill-blank",
+      "instruction": "Complete the WH question with the correct form of 'to be'.",
+      "sentence": "Where {_} Simon playing?",
+      "hint": "Simon",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Simon is singular, so use 'is': Where is Simon playing?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "where"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-fb-7",
+      "type": "fill-blank",
+      "instruction": "Complete the WH question.",
+      "sentence": "Who are they {_} for?",
+      "hint": "wait",
+      "answers": [
+        "waiting"
+      ],
+      "explanation": "Use the -ing form after 'are': Who are they waiting for?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "who"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-fb-8",
+      "type": "fill-blank",
+      "instruction": "Complete the question with the correct -ing verb.",
+      "sentence": "Are the children {_} outside?",
+      "hint": "play",
+      "answers": [
+        "playing"
+      ],
+      "explanation": "Present Progressive uses am/is/are + verb-ing.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-mc-1",
+      "type": "multiple-choice",
+      "sentence": "Which question is correct?",
+      "options": [
+        "If she is studying French?",
+        "She is studying French?",
+        "Is she studying French?",
+        "Does she studying French?"
+      ],
+      "correct": 2,
+      "explanation": "A Present Progressive yes/no question starts with am/is/are: Is she studying French?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "multiple-choice"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-mc-2",
+      "type": "multiple-choice",
+      "sentence": "Choose the correct WH question.",
+      "options": [
+        "What you are doing tonight?",
+        "What are you doing tonight?",
+        "What do you doing tonight?",
+        "What are doing you tonight?"
+      ],
+      "correct": 1,
+      "explanation": "Use question word + are + subject + verb-ing: What are you doing tonight?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "word-order"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-mc-3",
+      "type": "multiple-choice",
+      "sentence": "Which question asks about the action Jordan is doing?",
+      "options": [
+        "What Jordan is sleeping?",
+        "What is Jordan doing?",
+        "Where is Jordan doing?",
+        "Is Jordan doing sleeping?"
+      ],
+      "correct": 1,
+      "explanation": "To ask about the action, use: What is Jordan doing?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-mc-4",
+      "type": "multiple-choice",
+      "sentence": "Which auxiliary matches the subject in this question: 'When {_} they flying to Spain?'",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "do"
+      ],
+      "correct": 2,
+      "explanation": "Use 'are' with 'they': When are they flying to Spain?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-mc-5",
+      "type": "multiple-choice",
+      "sentence": "Which question correctly asks about the object of the action?",
+      "options": [
+        "What is she baking?",
+        "What is she doing baking?",
+        "What she is baking?",
+        "What does she baking?"
+      ],
+      "correct": 0,
+      "explanation": "To ask about the object, keep the main -ing verb: What is she baking?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-mc-6",
+      "type": "multiple-choice",
+      "sentence": "Which question has correct Present Progressive word order?",
+      "options": [
+        "You are working now?",
+        "Are you working now?",
+        "Do you are working now?",
+        "Working are you now?"
+      ],
+      "correct": 1,
+      "explanation": "Move 'are' before the subject: Are you working now?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "word-order"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "I am playing hockey.",
+      "answers": [
+        "Am I playing hockey?"
+      ],
+      "explanation": "Move 'am' before the subject: Am I playing hockey?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "first-person",
+        "sentence-transform"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "They are working hard.",
+      "answers": [
+        "Are they working hard?"
+      ],
+      "explanation": "Move 'are' before 'they'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person-plural",
+        "sentence-transform"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "My sister is driving home.",
+      "answers": [
+        "Is my sister driving home?"
+      ],
+      "explanation": "Move 'is' before the singular subject 'my sister'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person",
+        "sentence-transform"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "The children are playing outside.",
+      "answers": [
+        "Are the children playing outside?"
+      ],
+      "explanation": "Use 'are' with the plural subject 'the children'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "third-person-plural",
+        "sentence-transform"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question that asks about the action.",
+      "sentence": "Jordan is sleeping.",
+      "answers": [
+        "What is Jordan doing?"
+      ],
+      "explanation": "Use 'What is Jordan doing?' to ask about the action.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what",
+        "sentence-transform"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "They are waiting for a new teacher.",
+      "answers": [
+        "Who are they waiting for?"
+      ],
+      "explanation": "Ask about the person with 'who': Who are they waiting for?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "who",
+        "sentence-transform"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "Simon is playing outside.",
+      "answers": [
+        "Where is Simon playing?"
+      ],
+      "explanation": "Ask about place with 'where': Where is Simon playing?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "where",
+        "sentence-transform"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "Tom and Jill are eating falafel.",
+      "answers": [
+        "What are Tom and Jill eating?"
+      ],
+      "explanation": "Ask about the object with 'what' and keep the -ing verb.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "what",
+        "sentence-transform"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "We are watching TV because we are bored.",
+      "answers": [
+        "Why are we watching TV?"
+      ],
+      "explanation": "Ask about the reason with 'why': Why are we watching TV?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "why",
+        "sentence-transform"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-ec-1",
+      "type": "error-correction",
+      "sentence": "If they are coming to the party tonight?",
+      "answers": [
+        "Are they coming to the party tonight?"
+      ],
+      "explanation": "Do not use 'if' for a normal yes/no question. Start with 'are'.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-ec-2",
+      "type": "error-correction",
+      "sentence": "What they doing?",
+      "answers": [
+        "What are they doing?"
+      ],
+      "explanation": "Add the auxiliary 'are' after the question word.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-ec-3",
+      "type": "error-correction",
+      "sentence": "When is they flying to Spain?",
+      "answers": [
+        "When are they flying to Spain?"
+      ],
+      "explanation": "Use 'are' with 'they'.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "third-person-plural",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-ec-4",
+      "type": "error-correction",
+      "sentence": "Who is knock on the door?",
+      "answers": [
+        "Who is knocking on the door?"
+      ],
+      "explanation": "After 'is', use the -ing form: knocking.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "spelling",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-ec-5",
+      "type": "error-correction",
+      "sentence": "It is snowing outside?",
+      "answers": [
+        "Is it snowing outside?"
+      ],
+      "explanation": "A yes/no question starts with the auxiliary: Is it snowing outside?",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "word-order",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-ec-6",
+      "type": "error-correction",
+      "sentence": "Are the children behave?",
+      "answers": [
+        "Are the children behaving?"
+      ],
+      "explanation": "Present Progressive uses am/is/are + verb-ing: behaving.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "spelling",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-ec-7",
+      "type": "error-correction",
+      "sentence": "When she coming?",
+      "answers": [
+        "When is she coming?"
+      ],
+      "explanation": "Add 'is' after the question word: When is she coming?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "word-order",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-ec-8",
+      "type": "error-correction",
+      "sentence": "What is the teacher write on the board?",
+      "answers": [
+        "What is the teacher writing on the board?"
+      ],
+      "explanation": "Use the -ing form after 'is': writing.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "spelling",
+        "error-correction"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "003.3-ec-9",
+      "type": "error-correction",
+      "sentence": "What they eating?",
+      "answers": [
+        "What are they eating?"
+      ],
+      "explanation": "Add 'are' after the question word: What are they eating?",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "word-order",
+        "error-correction"
+      ],
+      "difficulty": 3
+    },
+    {
+      "id": "003.3-ec-10",
+      "type": "error-correction",
+      "sentence": "We are watching TV?",
+      "answers": [
+        "Are we watching TV?"
+      ],
+      "explanation": "Move 'are' before the subject to form a yes/no question.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "word-order",
+        "error-correction"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.3-fc-1",
+      "type": "flashcard",
+      "question": "How do we form Present Progressive yes/no questions?",
+      "answer": "Am/Is/Are + subject + verb-ing?\n\nExample: Are you listening?",
+      "explanation": "Move the verb 'to be' before the subject.",
+      "tags": [
+        "questions",
+        "yes-no-questions",
+        "theory"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.3-fc-2",
+      "type": "flashcard",
+      "question": "How do we form Present Progressive WH questions?",
+      "answer": "Question word + am/is/are + subject + verb-ing?\n\nExample: What are you doing?",
+      "explanation": "The question word comes first, followed by the Present Progressive question order.",
+      "tags": [
+        "questions",
+        "wh-questions",
+        "theory"
+      ],
+      "difficulty": 1
+    }
+  ]
+}

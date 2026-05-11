@@ -1,0 +1,488 @@
+{
+  "id": "003.4",
+  "title": "Present Progressive – Review",
+  "topic": "Present Progressive",
+  "subtopic": "Review",
+  "description": "Mixed practice with positive, negative, and question forms in the Present Progressive",
+  "lessons": [
+    {
+      "id": "003.4-lesson-1",
+      "title": "Quick Review of the Present Progressive",
+      "content": "Use the Present Progressive for actions happening now and for some planned future arrangements.\n\n| Form | Structure | Example |\n|------|-----------|---------|\n| Positive | Subject + am/is/are + verb-ing | She is working right now. |\n| Negative | Subject + am/is/are + not + verb-ing | They are not driving home. |\n| Yes/No Question | Am/Is/Are + subject + verb-ing + ? | Are you listening? |\n| WH Question | Question word + am/is/are + subject + verb-ing + ? | Where are they staying? |\n\n📌 Choose **am** with **I**, **is** with **he / she / it**, and **are** with **you / we / they**."
+    },
+    {
+      "id": "003.4-lesson-2",
+      "title": "Final Check Before You Answer",
+      "content": "Before answering, check these points:\n\n• Did you use **am / is / are** before the **verb-ing** form?\n• In negatives, did you put **not** after **am / is / are**?\n• In questions, did you move **am / is / are** before the subject?\n• In WH questions, did you choose the right question word: **who, what, when, where, why, which, how much, how many**?\n\n⚠️ Common mistakes:\n• **She eating.** -> **She is eating.**\n• **They not listening.** -> **They are not listening.**\n• **You are working?** -> **Are you working?**"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "003.4-fb-1",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct Present Progressive form.",
+      "sentence": "They {_} to Spain tomorrow.",
+      "hint": "fly",
+      "answers": [
+        "are flying"
+      ],
+      "explanation": "Use 'are' with 'they' + verb-ing: are flying.",
+      "tags": [
+        "review",
+        "positive",
+        "future-arrangement",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-fb-2",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct Present Progressive form.",
+      "sentence": "My sister {_} video games.",
+      "hint": "play",
+      "answers": [
+        "is playing"
+      ],
+      "explanation": "Use 'is' with the singular subject 'my sister' + verb-ing.",
+      "tags": [
+        "review",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-fb-3",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct Present Progressive form.",
+      "sentence": "I {_} dinner right now.",
+      "hint": "cook",
+      "answers": [
+        "am cooking"
+      ],
+      "explanation": "Use 'am' with 'I' + verb-ing: am cooking.",
+      "tags": [
+        "review",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-fb-4",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct Present Progressive form.",
+      "sentence": "It {_} outside!",
+      "hint": "snow",
+      "answers": [
+        "is snowing"
+      ],
+      "explanation": "Use 'is' with 'it' + verb-ing: is snowing.",
+      "tags": [
+        "review",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-fb-5",
+      "type": "fill-blank",
+      "instruction": "Complete the sentence with the correct Present Progressive form.",
+      "sentence": "You {_} tomorrow.",
+      "hint": "work",
+      "answers": [
+        "are working"
+      ],
+      "explanation": "Use 'are' with 'you' + verb-ing. The Present Progressive can describe a future arrangement.",
+      "tags": [
+        "review",
+        "positive",
+        "future-arrangement",
+        "second-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-1",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "She is working right now.",
+      "answers": [
+        "She isn't working right now.",
+        "She is not working right now."
+      ],
+      "explanation": "Put 'not' after 'is': is not working / isn't working.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-2",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "They are driving home.",
+      "answers": [
+        "They aren't driving home.",
+        "They are not driving home."
+      ],
+      "explanation": "Put 'not' after 'are': are not driving / aren't driving.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-3",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "Jack is arriving tomorrow.",
+      "answers": [
+        "Jack isn't arriving tomorrow.",
+        "Jack is not arriving tomorrow."
+      ],
+      "explanation": "Use 'is not' or 'isn't' before the verb-ing form.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "future-arrangement",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-4",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "I am listening to music.",
+      "answers": [
+        "I am not listening to music.",
+        "I'm not listening to music."
+      ],
+      "explanation": "With 'I am', the negative is 'I am not' or 'I'm not'.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-5",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to the negative form.",
+      "sentence": "We are going to the mall soon.",
+      "answers": [
+        "We aren't going to the mall soon.",
+        "We are not going to the mall soon."
+      ],
+      "explanation": "Put 'not' after 'are': are not going / aren't going.",
+      "tags": [
+        "review",
+        "negative",
+        "sentence-transform",
+        "future-arrangement",
+        "first-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-6",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "They are fighting.",
+      "answers": [
+        "Are they fighting?"
+      ],
+      "explanation": "Move 'are' before the subject: Are they fighting?",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-7",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "The doctor is waiting for you.",
+      "answers": [
+        "Is the doctor waiting for you?"
+      ],
+      "explanation": "Move 'is' before the singular subject: Is the doctor waiting for you?",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-8",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "My parents are staying with me.",
+      "answers": [
+        "Are my parents staying with me?"
+      ],
+      "explanation": "Move 'are' before the plural subject: Are my parents staying with me?",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-9",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "He is speaking to me.",
+      "answers": [
+        "Is he speaking to me?"
+      ],
+      "explanation": "Move 'is' before 'he': Is he speaking to me?",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-10",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a yes/no question.",
+      "sentence": "Our friends are coming.",
+      "answers": [
+        "Are our friends coming?"
+      ],
+      "explanation": "Move 'are' before the plural subject: Are our friends coming?",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-st-11",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "We are learning English.",
+      "answers": [
+        "What are we learning?"
+      ],
+      "explanation": "Ask about the object with 'what', then use 'are' before the subject.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "first-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.4-st-12",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "They are staying in Toronto.",
+      "answers": [
+        "Where are they staying?"
+      ],
+      "explanation": "Ask about a place with 'where', then use 'are' before the subject.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.4-st-13",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "I am studying for my test.",
+      "answers": [
+        "What am I studying for?"
+      ],
+      "explanation": "Ask about the reason or object with 'what', then use 'am' before 'I'.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "first-person"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.4-st-14",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "She is taking care of two kids.",
+      "answers": [
+        "How many kids is she taking care of?"
+      ],
+      "explanation": "Ask about a number with 'how many', then use 'is' before the subject.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "third-person"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.4-st-15",
+      "type": "sentence-transform",
+      "instruction": "Change the sentence to a WH question.",
+      "sentence": "We are flying to Spain tomorrow.",
+      "answers": [
+        "Where are we flying tomorrow?",
+        "When are we flying to Spain?"
+      ],
+      "explanation": "Use a WH word before 'are'. 'Where' asks about Spain; 'when' asks about tomorrow.",
+      "tags": [
+        "review",
+        "questions",
+        "wh-questions",
+        "future-arrangement",
+        "first-person-plural"
+      ],
+      "difficulty": 2
+    },
+    {
+      "id": "003.4-mc-1",
+      "type": "multiple-choice",
+      "sentence": "I am {_} today.",
+      "options": [
+        "work",
+        "worked",
+        "working",
+        "works"
+      ],
+      "correct": 2,
+      "explanation": "After 'am', use the verb-ing form: working.",
+      "tags": [
+        "review",
+        "positive",
+        "first-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-mc-2",
+      "type": "multiple-choice",
+      "sentence": "She {_} eating.",
+      "options": [
+        "doesn't",
+        "aren't",
+        "not",
+        "isn't"
+      ],
+      "correct": 3,
+      "explanation": "Use 'isn't' with 'she' in the negative Present Progressive.",
+      "tags": [
+        "review",
+        "negative",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-mc-3",
+      "type": "multiple-choice",
+      "sentence": "{_} they listening?",
+      "options": [
+        "Do",
+        "If",
+        "Are",
+        "Is"
+      ],
+      "correct": 2,
+      "explanation": "Use 'are' before 'they' in a Present Progressive question.",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-mc-4",
+      "type": "multiple-choice",
+      "sentence": "Marie {_} now.",
+      "options": [
+        "sleeps",
+        "is sleeping",
+        "sleep",
+        "sleeping"
+      ],
+      "correct": 1,
+      "explanation": "Use 'is' with the singular subject 'Marie' + verb-ing.",
+      "tags": [
+        "review",
+        "positive",
+        "third-person"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-mc-5",
+      "type": "multiple-choice",
+      "sentence": "They {_} arguing.",
+      "options": [
+        "aren't",
+        "don't",
+        "not",
+        "isn't"
+      ],
+      "correct": 0,
+      "explanation": "Use 'aren't' with 'they' in the negative Present Progressive.",
+      "tags": [
+        "review",
+        "negative",
+        "third-person-plural"
+      ],
+      "difficulty": 1
+    },
+    {
+      "id": "003.4-mc-6",
+      "type": "multiple-choice",
+      "sentence": "{_} I speaking too much?",
+      "options": [
+        "Are",
+        "Do",
+        "Am",
+        "If"
+      ],
+      "correct": 2,
+      "explanation": "Use 'am' before 'I' in a Present Progressive question.",
+      "tags": [
+        "review",
+        "questions",
+        "yes-no-questions",
+        "first-person"
+      ],
+      "difficulty": 1
+    }
+  ]
+}
